@@ -2,6 +2,7 @@
 import json
 import os
 from datetime import date
+import re
 from pathlib import Path
 from typing import List, Dict, Set
 
@@ -78,6 +79,32 @@ def is_duplicate(existing_ideas: List[Dict[str, str]], candidate: str) -> bool:
     return normalized_candidate in seen
 
 
+def slugify(value: str) -> str:
+    """Create a file-system friendly slug from arbitrary text.
+
+    - Lowercase
+    - Replace non-alphanumerics with single hyphens
+    - Collapse multiple hyphens
+    - Trim hyphens from ends
+    - Limit length to 60 chars
+    """
+    value = value.lower()
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    value = re.sub(r"-+", "-", value).strip("-")
+    return value[:60] if len(value) > 60 else value
+
+
+def ensure_unique_slug(base_slug: str, existing_slugs: Set[str]) -> str:
+    if base_slug not in existing_slugs:
+        return base_slug
+    suffix = 2
+    while True:
+        candidate = f"{base_slug}-{suffix}"
+        if candidate not in existing_slugs:
+            return candidate
+        suffix += 1
+
+
 def generate_ideas_via_openai() -> List[str]:
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
@@ -117,6 +144,12 @@ def generate_ideas_via_openai() -> List[str]:
 def main() -> None:
     today = date.today().isoformat()
     all_ideas = load_ideas()
+    # Track existing project slugs for uniqueness going forward
+    existing_slugs: Set[str] = set()
+    for item in all_ideas:
+        slug = item.get("project_slug")
+        if isinstance(slug, str) and slug:
+            existing_slugs.add(slug)
 
     # Build a set of today's existing ideas to avoid duplicates on same day
     todays_ideas = [i for i in all_ideas if i.get("date") == today]
@@ -133,7 +166,12 @@ def main() -> None:
             continue
         if is_duplicate(all_ideas, idea):
             continue
-        record = {"date": today, "idea": idea, "status": "new"}
+        base_slug = slugify(idea)
+        if not base_slug:
+            base_slug = f"project-{today}"
+        unique_slug = ensure_unique_slug(base_slug, existing_slugs)
+        existing_slugs.add(unique_slug)
+        record = {"date": today, "idea": idea, "project_slug": unique_slug, "status": "new"}
         all_ideas.append(record)
         added += 1
 
