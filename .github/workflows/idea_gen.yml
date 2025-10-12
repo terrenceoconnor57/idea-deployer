@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '17 7 * * *'  # Runs daily at 07:17 UTC
 
+permissions:
+  contents: write
+
+
 jobs:
   idea-gen:
     runs-on: ubuntu-latest
