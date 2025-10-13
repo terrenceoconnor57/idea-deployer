@@ -8,5 +8,11 @@
     "date": "2025-10-12",
     "idea": "A marketplace that connects creatives with mental health professionals, allowing users to explore therapeutic art workshops, classes, or experiences designed to boost emotional wellness and foster community support, crafted for different skill levels and creative expressions.",
     "status": "new"
+  },
+  {
+    "date": "2025-10-13",
+    "idea": "An AI-driven mentorship platform that pairs professionals with short, focused learning modules tailored to their career transitions, enabling them to gain specialized skills quickly and connect with industry veterans for real-time feedback and advice.",
+    "project_slug": "an-ai-driven-mentorship-platform-that-pairs-professionals-wi",
+    "status": "new"
   }
 ]
