@@ -14,5 +14,17 @@
     "idea": "An AI-driven mentorship platform that pairs professionals with short, focused learning modules tailored to their career transitions, enabling them to gain specialized skills quickly and connect with industry veterans for real-time feedback and advice.",
     "project_slug": "an-ai-driven-mentorship-platform-that-pairs-professionals-wi",
     "status": "new"
+  },
+  {
+    "date": "2025-10-14",
+    "idea": "A collaborative platform for teams that uses AI to analyze and visualize the emotional tone of written communication in real-time, helping users to adjust their language for improved team morale and productivity.",
+    "project_slug": "a-collaborative-platform-for-teams-that-uses-ai-to-analyze-a",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-14",
+    "idea": "An interactive marketplace that connects local artists and craftsmen with corporate clients, allowing businesses to commission custom art pieces while offering artisans a platform to showcase their unique styles and skills, integrating chat-based negotiations and project management tools.",
+    "project_slug": "an-interactive-marketplace-that-connects-local-artists-and-c",
+    "status": "new"
   }
 ]
