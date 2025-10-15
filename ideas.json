@@ -26,5 +26,17 @@
     "idea": "An interactive marketplace that connects local artists and craftsmen with corporate clients, allowing businesses to commission custom art pieces while offering artisans a platform to showcase their unique styles and skills, integrating chat-based negotiations and project management tools.",
     "project_slug": "an-interactive-marketplace-that-connects-local-artists-and-c",
     "status": "new"
+  },
+  {
+    "date": "2025-10-15",
+    "idea": "A collaborative storytelling platform where users co-create narratives in real-time, integrating multimedia elements like audio clips, images, and animations. Each chapter can be spun off into separate paths, allowing for a branching storyline where users can explore different character perspectives, enhancing engagement and creativity.",
+    "project_slug": "a-collaborative-storytelling-platform-where-users-co-create-",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-15",
+    "idea": "An AI-driven knowledge map tool that dynamically visualizes connections between concepts from various sources, such as articles, research papers, and social media posts. Users can input a topic and receive a visual network of relationships, highlighting gaps in knowledge and suggesting potential connections for further exploration or learning.",
+    "project_slug": "an-ai-driven-knowledge-map-tool-that-dynamically-visualizes-",
+    "status": "new"
   }
 ]
