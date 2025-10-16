@@ -38,5 +38,17 @@
     "idea": "An AI-driven knowledge map tool that dynamically visualizes connections between concepts from various sources, such as articles, research papers, and social media posts. Users can input a topic and receive a visual network of relationships, highlighting gaps in knowledge and suggesting potential connections for further exploration or learning.",
     "project_slug": "an-ai-driven-knowledge-map-tool-that-dynamically-visualizes-",
     "status": "new"
+  },
+  {
+    "date": "2025-10-16",
+    "idea": "A community-driven platform that leverages machine learning to connect users based on their unique emotional needs, fostering real-time conversations with trained peers and mental health professionals. Users can track their emotional growth over time with tailored personal insights.",
+    "project_slug": "a-community-driven-platform-that-leverages-machine-learning-",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-16",
+    "idea": "A virtual garden simulation that integrates IoT sensors from home plants, allowing users to visualize their indoor plants' health metrics and growth trends through an interactive digital dashboard, alongside community space for sharing care tips and plant-swapping events.",
+    "project_slug": "a-virtual-garden-simulation-that-integrates-iot-sensors-from",
+    "status": "new"
   }
 ]
