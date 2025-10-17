@@ -50,5 +50,17 @@
     "idea": "A virtual garden simulation that integrates IoT sensors from home plants, allowing users to visualize their indoor plants' health metrics and growth trends through an interactive digital dashboard, alongside community space for sharing care tips and plant-swapping events.",
     "project_slug": "a-virtual-garden-simulation-that-integrates-iot-sensors-from",
     "status": "new"
+  },
+  {
+    "date": "2025-10-17",
+    "idea": "A platform that automates personalized gratitude communications for businesses, enabling them to send tailored thank-you notes or messages based on customer interactions and purchase history, enhancing client loyalty with minimal effort.",
+    "project_slug": "a-platform-that-automates-personalized-gratitude-communicati",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-17",
+    "idea": "A dynamic marketplace that connects local artisans and creators with consumers, allowing users to collaborate on bespoke projects—think custom artwork or unique home decor—while managing production timelines and payments through a streamlined interface.",
+    "project_slug": "a-dynamic-marketplace-that-connects-local-artisans-and-creat",
+    "status": "new"
   }
 ]
