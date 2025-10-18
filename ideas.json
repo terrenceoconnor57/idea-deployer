@@ -62,5 +62,17 @@
     "idea": "A dynamic marketplace that connects local artisans and creators with consumers, allowing users to collaborate on bespoke projects—think custom artwork or unique home decor—while managing production timelines and payments through a streamlined interface.",
     "project_slug": "a-dynamic-marketplace-that-connects-local-artisans-and-creat",
     "status": "new"
+  },
+  {
+    "date": "2025-10-18",
+    "idea": "A collaborative platform for shared personal goals, where friends and family can support each other through curated challenges and mini-competitions. Users can set up rewards for milestones, promoting accountability and social engagement while fostering a stronger sense of community.",
+    "project_slug": "a-collaborative-platform-for-shared-personal-goals-where-fri",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-18",
+    "idea": "An AI-driven feedback tool for workplace learning that aggregates peer-to-peer reviews in real-time and uses natural language processing to distill clear, actionable insights. This helps employees identify specific areas for growth while also emphasizing their strengths, creating a more tailored development experience.",
+    "project_slug": "an-ai-driven-feedback-tool-for-workplace-learning-that-aggre",
+    "status": "new"
   }
 ]
