@@ -74,5 +74,11 @@
     "idea": "An AI-driven feedback tool for workplace learning that aggregates peer-to-peer reviews in real-time and uses natural language processing to distill clear, actionable insights. This helps employees identify specific areas for growth while also emphasizing their strengths, creating a more tailored development experience.",
     "project_slug": "an-ai-driven-feedback-tool-for-workplace-learning-that-aggre",
     "status": "new"
+  },
+  {
+    "date": "2025-10-19",
+    "idea": "A collaborative platform for artifact-driven planning, where teams can visualize project timelines using digital \"artifacts\" that represent team strengths, potential bottlenecks, and user stories in a dynamic, interactive environment. It fosters innovation by allowing teams to prototype and re-model workflows in real-time.",
+    "project_slug": "a-collaborative-platform-for-artifact-driven-planning-where-",
+    "status": "new"
   }
 ]
