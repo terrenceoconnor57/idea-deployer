@@ -80,5 +80,11 @@
     "idea": "A collaborative platform for artifact-driven planning, where teams can visualize project timelines using digital \"artifacts\" that represent team strengths, potential bottlenecks, and user stories in a dynamic, interactive environment. It fosters innovation by allowing teams to prototype and re-model workflows in real-time.",
     "project_slug": "a-collaborative-platform-for-artifact-driven-planning-where-",
     "status": "new"
+  },
+  {
+    "date": "2025-10-20",
+    "idea": "A collaborative narrative building platform that connects writers, educators, and learners in real-time to create and edit interactive storytelling experiences. Users can weave in multimedia elements, integrating educational tools that allow for personalized story structures based on user interests and learning goals.",
+    "project_slug": "a-collaborative-narrative-building-platform-that-connects-wr",
+    "status": "new"
   }
 ]
