@@ -86,5 +86,17 @@
     "idea": "A collaborative narrative building platform that connects writers, educators, and learners in real-time to create and edit interactive storytelling experiences. Users can weave in multimedia elements, integrating educational tools that allow for personalized story structures based on user interests and learning goals.",
     "project_slug": "a-collaborative-narrative-building-platform-that-connects-wr",
     "status": "new"
+  },
+  {
+    "date": "2025-10-21",
+    "idea": "A personalized decision-making assistant that harnesses AI to interpret an individual's unique values and preferences, generating customized pro and con lists for important life choices. It can also suggest compromise strategies for conflicts, adapting its advice based on ongoing user feedback.",
+    "project_slug": "a-personalized-decision-making-assistant-that-harnesses-ai-t",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-21",
+    "idea": "A dynamic community-driven timeline platform for local businesses where users can anonymously share real-time experiences with services, products, and events. This enables potential customers to engage based on authenticity and fosters local support, while businesses can gain actionable insights from customer sentiments.",
+    "project_slug": "a-dynamic-community-driven-timeline-platform-for-local-busin",
+    "status": "new"
   }
 ]
