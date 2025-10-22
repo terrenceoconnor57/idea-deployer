@@ -98,5 +98,17 @@
     "idea": "A dynamic community-driven timeline platform for local businesses where users can anonymously share real-time experiences with services, products, and events. This enables potential customers to engage based on authenticity and fosters local support, while businesses can gain actionable insights from customer sentiments.",
     "project_slug": "a-dynamic-community-driven-timeline-platform-for-local-busin",
     "status": "new"
+  },
+  {
+    "date": "2025-10-22",
+    "idea": "A platform that utilizes AI to create personalized, interactive mindfulness journeys, adapting them in real-time based on user feedback, emotional state, and daily habits. Users are guided through customized narratives that blend meditation, visualization, and proactive stress management.",
+    "project_slug": "a-platform-that-utilizes-ai-to-create-personalized-interacti",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-22",
+    "idea": "A collaborative toolkit for teams to design and simulate ethical decision-making scenarios in real-time, integrating gamification and role-play elements. This platform empowers users to explore consequences of their choices while fostering a culture of ethical awareness and critical thinking.",
+    "project_slug": "a-collaborative-toolkit-for-teams-to-design-and-simulate-eth",
+    "status": "new"
   }
 ]
