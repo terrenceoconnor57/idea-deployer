@@ -110,5 +110,17 @@
     "idea": "A collaborative toolkit for teams to design and simulate ethical decision-making scenarios in real-time, integrating gamification and role-play elements. This platform empowers users to explore consequences of their choices while fostering a culture of ethical awareness and critical thinking.",
     "project_slug": "a-collaborative-toolkit-for-teams-to-design-and-simulate-eth",
     "status": "new"
+  },
+  {
+    "date": "2025-10-23",
+    "idea": "A personalized virtual retreat platform that curates self-care experiences by analyzing user preferences and local resources. Users select goals like relaxation, creativity, or connection, and the platform designs unique itineraries with local workshops, wellness events, and nature excursions.",
+    "project_slug": "a-personalized-virtual-retreat-platform-that-curates-self-ca",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-23",
+    "idea": "An AI-driven storytelling assistant that generates immersive narratives by integrating user-uploaded multimedia content—photos, audio snippets, and videos. It assists users in crafting compelling digital diaries or family histories, automatically organizing and contextualizing content into cohesive and engaging stories.",
+    "project_slug": "an-ai-driven-storytelling-assistant-that-generates-immersive",
+    "status": "new"
   }
 ]
