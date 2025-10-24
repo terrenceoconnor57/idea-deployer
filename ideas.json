@@ -122,5 +122,17 @@
     "idea": "An AI-driven storytelling assistant that generates immersive narratives by integrating user-uploaded multimedia content—photos, audio snippets, and videos. It assists users in crafting compelling digital diaries or family histories, automatically organizing and contextualizing content into cohesive and engaging stories.",
     "project_slug": "an-ai-driven-storytelling-assistant-that-generates-immersive",
     "status": "new"
+  },
+  {
+    "date": "2025-10-24",
+    "idea": "A skills marketplace that connects individuals with micro-mentorship opportunities, allowing professionals to offer 30-minute guided sessions on their expertise. Users can filter by specific skills and availability, fostering spontaneous skill sharing without long-term commitments.",
+    "project_slug": "a-skills-marketplace-that-connects-individuals-with-micro-me",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-24",
+    "idea": "An interactive platform that gamifies sustainability efforts within organizations. Teams can set eco-challenges, track their carbon footprint reductions in real-time, and compete in sustainability lending leagues, encouraging collaboration and accountability for greener practices.",
+    "project_slug": "an-interactive-platform-that-gamifies-sustainability-efforts",
+    "status": "new"
   }
 ]
