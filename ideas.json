@@ -134,5 +134,17 @@
     "idea": "An interactive platform that gamifies sustainability efforts within organizations. Teams can set eco-challenges, track their carbon footprint reductions in real-time, and compete in sustainability lending leagues, encouraging collaboration and accountability for greener practices.",
     "project_slug": "an-interactive-platform-that-gamifies-sustainability-efforts",
     "status": "new"
+  },
+  {
+    "date": "2025-10-25",
+    "idea": "A platform that analyzes a user's digital communication for emotional tone and sentiment, offering personalized advice on how to improve relationships and messaging effectiveness, tailored to different contexts like work or personal life.",
+    "project_slug": "a-platform-that-analyzes-a-user-s-digital-communication-for-",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-25",
+    "idea": "An interactive storytelling tool that uses AI to create custom choose-your-own-adventure narratives based on user input and preferences, allowing authors to publish and monetize their unique stories while engaging readers in new, personalized ways.",
+    "project_slug": "an-interactive-storytelling-tool-that-uses-ai-to-create-cust",
+    "status": "new"
   }
 ]
