@@ -146,5 +146,17 @@
     "idea": "An interactive storytelling tool that uses AI to create custom choose-your-own-adventure narratives based on user input and preferences, allowing authors to publish and monetize their unique stories while engaging readers in new, personalized ways.",
     "project_slug": "an-interactive-storytelling-tool-that-uses-ai-to-create-cust",
     "status": "new"
+  },
+  {
+    "date": "2025-10-26",
+    "idea": "A personalized music discovery platform that uses emotional AI to curate playlists based on users' mood fluctuations throughout the day, integrating seamlessly with mental health tracking apps to adjust suggestions in real-time.",
+    "project_slug": "a-personalized-music-discovery-platform-that-uses-emotional-",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-26",
+    "idea": "An immersive virtual storefront that allows consumers to experience products through interactive storytelling; brands can create narratives around their items that engage users in a memorable, gamified shopping journey, fostering brand loyalty and deeper emotional connections.",
+    "project_slug": "an-immersive-virtual-storefront-that-allows-consumers-to-exp",
+    "status": "new"
   }
 ]
