@@ -158,5 +158,17 @@
     "idea": "An immersive virtual storefront that allows consumers to experience products through interactive storytelling; brands can create narratives around their items that engage users in a memorable, gamified shopping journey, fostering brand loyalty and deeper emotional connections.",
     "project_slug": "an-immersive-virtual-storefront-that-allows-consumers-to-exp",
     "status": "new"
+  },
+  {
+    "date": "2025-10-27",
+    "idea": "A personalized wellness platform that adapts real-time based on daily mood inputs, offering curated micro-experiences—like guided breathing exercises or inspirational content—aligned with specific emotional needs and preferences, enhancing mental health support.",
+    "project_slug": "a-personalized-wellness-platform-that-adapts-real-time-based",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-27",
+    "idea": "A decentralized marketplace for eco-friendly goods where customers can trade products while tracking the carbon footprint of their transactions. Users earn carbon credits for trading sustainably, incentivizing conscious consumption and promoting a community-focused circular economy.",
+    "project_slug": "a-decentralized-marketplace-for-eco-friendly-goods-where-cus",
+    "status": "new"
   }
 ]
