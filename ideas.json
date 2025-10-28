@@ -170,5 +170,17 @@
     "idea": "A decentralized marketplace for eco-friendly goods where customers can trade products while tracking the carbon footprint of their transactions. Users earn carbon credits for trading sustainably, incentivizing conscious consumption and promoting a community-focused circular economy.",
     "project_slug": "a-decentralized-marketplace-for-eco-friendly-goods-where-cus",
     "status": "new"
+  },
+  {
+    "date": "2025-10-28",
+    "idea": "A collaborative platform that uses AI to match users with local experts for real-time, on-demand consultations across various fields, from gardening to tech troubleshooting, enabling knowledge exchange without formal credentials.",
+    "project_slug": "a-collaborative-platform-that-uses-ai-to-match-users-with-lo",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-28",
+    "idea": "A subscription service for small business owners that offers personalized video content creation tools and templates, paired with weekly strategy sessions, aimed at streamlining marketing efforts and enhancing online presence without needing extensive media experience.",
+    "project_slug": "a-subscription-service-for-small-business-owners-that-offers",
+    "status": "new"
   }
 ]
