@@ -182,5 +182,17 @@
     "idea": "A subscription service for small business owners that offers personalized video content creation tools and templates, paired with weekly strategy sessions, aimed at streamlining marketing efforts and enhancing online presence without needing extensive media experience.",
     "project_slug": "a-subscription-service-for-small-business-owners-that-offers",
     "status": "new"
+  },
+  {
+    "date": "2025-10-29",
+    "idea": "A digital time capsule platform allowing users to create and store augmented reality experiences, visible only to future generations through personal codes. Users can include notes, photos, and videos, fostering personal history in an interactive format.",
+    "project_slug": "a-digital-time-capsule-platform-allowing-users-to-create-and",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-29",
+    "idea": "An adaptive skill exchange network where users can barter learning experiences in real-time. As users engage in micro-interactions, the platform learns their preferences and rates, dynamically matching them with peers who possess complementary skills for real-world learning sessions.",
+    "project_slug": "an-adaptive-skill-exchange-network-where-users-can-barter-le",
+    "status": "new"
   }
 ]
