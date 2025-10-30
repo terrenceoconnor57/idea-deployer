@@ -194,5 +194,11 @@
     "idea": "An adaptive skill exchange network where users can barter learning experiences in real-time. As users engage in micro-interactions, the platform learns their preferences and rates, dynamically matching them with peers who possess complementary skills for real-world learning sessions.",
     "project_slug": "an-adaptive-skill-exchange-network-where-users-can-barter-le",
     "status": "new"
+  },
+  {
+    "date": "2025-10-30",
+    "idea": "A platform that uses AI to analyze digital footprints across social media and websites, creating personalized behavioral insights for users. Leveraging this data, it suggests tools and resources for self-improvement, tailored to individual goals and preferences.",
+    "project_slug": "a-platform-that-uses-ai-to-analyze-digital-footprints-across",
+    "status": "new"
   }
 ]
