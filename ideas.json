@@ -200,5 +200,17 @@
     "idea": "A platform that uses AI to analyze digital footprints across social media and websites, creating personalized behavioral insights for users. Leveraging this data, it suggests tools and resources for self-improvement, tailored to individual goals and preferences.",
     "project_slug": "a-platform-that-uses-ai-to-analyze-digital-footprints-across",
     "status": "new"
+  },
+  {
+    "date": "2025-10-31",
+    "idea": "A dynamic career progression platform that uses AI to analyze user strengths and interests, pairing them with real-time job market trends to suggest personalized learning paths and micro-credentialing options for upskilling within specific industries.",
+    "project_slug": "a-dynamic-career-progression-platform-that-uses-ai-to-analyz",
+    "status": "new"
+  },
+  {
+    "date": "2025-10-31",
+    "idea": "A decentralized publishing platform where writers can opt for \"pay-per-read\" models instead of flat fees, utilizing smart contracts to distribute revenue based on actual engagement, allowing for fairer compensation models and fostering niche content creation.",
+    "project_slug": "a-decentralized-publishing-platform-where-writers-can-opt-fo",
+    "status": "new"
   }
 ]
