@@ -212,5 +212,17 @@
     "idea": "A decentralized publishing platform where writers can opt for \"pay-per-read\" models instead of flat fees, utilizing smart contracts to distribute revenue based on actual engagement, allowing for fairer compensation models and fostering niche content creation.",
     "project_slug": "a-decentralized-publishing-platform-where-writers-can-opt-fo",
     "status": "new"
+  },
+  {
+    "date": "2025-11-01",
+    "idea": "A personalized habit-tracking platform that integrates with your emotional state through periodic check-ins, using sentiment analysis of your written reflections. This creates tailored habit suggestions based on mood-driven patterns, helping users align their habits with emotional well-being.",
+    "project_slug": "a-personalized-habit-tracking-platform-that-integrates-with-",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-01",
+    "idea": "An AI-driven community platform for mental health where users can anonymously share their experiences and receive real-time feedback based on guided prompts. The system utilizes natural language processing to identify common themes and suggest relevant resources or peer connections for support.",
+    "project_slug": "an-ai-driven-community-platform-for-mental-health-where-user",
+    "status": "new"
   }
 ]
