@@ -224,5 +224,11 @@
     "idea": "An AI-driven community platform for mental health where users can anonymously share their experiences and receive real-time feedback based on guided prompts. The system utilizes natural language processing to identify common themes and suggest relevant resources or peer connections for support.",
     "project_slug": "an-ai-driven-community-platform-for-mental-health-where-user",
     "status": "new"
+  },
+  {
+    "date": "2025-11-02",
+    "idea": "A collaborative platform for creating and sharing real-time emotional wellness metrics. Users can anonymously track moods, stress levels, and coping strategies while contributing to community insights, fostering a supportive network and leveraging data for group support initiatives.",
+    "project_slug": "a-collaborative-platform-for-creating-and-sharing-real-time-",
+    "status": "new"
   }
 ]
