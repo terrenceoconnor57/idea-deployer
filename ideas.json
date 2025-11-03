@@ -230,5 +230,17 @@
     "idea": "A collaborative platform for creating and sharing real-time emotional wellness metrics. Users can anonymously track moods, stress levels, and coping strategies while contributing to community insights, fostering a supportive network and leveraging data for group support initiatives.",
     "project_slug": "a-collaborative-platform-for-creating-and-sharing-real-time-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-03",
+    "idea": "A platform that connects freelancers specializing in environmental sustainability with businesses seeking to improve their ecological impact. The site offers project-based collaboration tools, resource sharing, and an impact-tracking dashboard to measure and showcase sustainability enhancements.",
+    "project_slug": "a-platform-that-connects-freelancers-specializing-in-environ",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-03",
+    "idea": "An AI-driven community marketplace for local artisans where customers can curate their own subscription boxes of handmade goods. Vendors can use the platform to optimize their offerings based on real-time customer feedback and trends, while consumers enjoy personalized, rotating surprises each month.",
+    "project_slug": "an-ai-driven-community-marketplace-for-local-artisans-where-",
+    "status": "new"
   }
 ]
