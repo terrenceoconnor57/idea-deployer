@@ -242,5 +242,17 @@
     "idea": "An AI-driven community marketplace for local artisans where customers can curate their own subscription boxes of handmade goods. Vendors can use the platform to optimize their offerings based on real-time customer feedback and trends, while consumers enjoy personalized, rotating surprises each month.",
     "project_slug": "an-ai-driven-community-marketplace-for-local-artisans-where-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-04",
+    "idea": "A dynamic negotiation platform that uses AI-driven simulations to train teams on diverse bargaining styles and outcomes based on real-world scenarios. Users can assess their performance and improve strategies through personalized feedback and progress tracking.",
+    "project_slug": "a-dynamic-negotiation-platform-that-uses-ai-driven-simulatio",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-04",
+    "idea": "An interactive community-driven library for sharing and evolving open-source software documentation. Users can contribute improvements, ask questions, and receive mentorship from experienced developers, creating a living resource that adapts to the latest trends and technologies.",
+    "project_slug": "an-interactive-community-driven-library-for-sharing-and-evol",
+    "status": "new"
   }
 ]
