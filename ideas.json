@@ -260,5 +260,17 @@
     "idea": "A platform that analyzes historical purchase data and trends to forecast personal shopping seasons for users, suggesting customized sales alerts and product recommendations based on their unique buying patterns, ensuring they never miss a timely deal.",
     "project_slug": "a-platform-that-analyzes-historical-purchase-data-and-trends",
     "status": "new"
+  },
+  {
+    "date": "2025-11-06",
+    "idea": "A dynamic review platform that utilizes AI to analyze customer sentiments across varying formats (text, video, audio) and presents businesses with a personalized satisfaction improvement plan, complete with actionable insights tailored to their audience’s voice.",
+    "project_slug": "a-dynamic-review-platform-that-utilizes-ai-to-analyze-custom",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-06",
+    "idea": "An interactive neighborhood exchange service where residents trade goods, skills, and services through a geolocated app, allowing them to earn local currency points redeemable for community benefits, fostering deeper local connections and sustainable living.",
+    "project_slug": "an-interactive-neighborhood-exchange-service-where-residents",
+    "status": "new"
   }
 ]
