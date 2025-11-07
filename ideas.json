@@ -272,5 +272,17 @@
     "idea": "An interactive neighborhood exchange service where residents trade goods, skills, and services through a geolocated app, allowing them to earn local currency points redeemable for community benefits, fostering deeper local connections and sustainable living.",
     "project_slug": "an-interactive-neighborhood-exchange-service-where-residents",
     "status": "new"
+  },
+  {
+    "date": "2025-11-07",
+    "idea": "A decentralized platform for co-creating educational content, allowing educators and students to collaboratively design curricula and share resources. Users can earn tokens for contributions, fostering a self-sustaining ecosystem that values diverse perspectives.",
+    "project_slug": "a-decentralized-platform-for-co-creating-educational-content",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-07",
+    "idea": "An AI-driven emotional intelligence tracker that integrates with popular messaging platforms, providing real-time insights into the emotional tone of conversations. Users receive personalized suggestions to enhance communication, empathy, and relationship-building, improving both personal and professional interactions.",
+    "project_slug": "an-ai-driven-emotional-intelligence-tracker-that-integrates-",
+    "status": "new"
   }
 ]
