@@ -284,5 +284,11 @@
     "idea": "An AI-driven emotional intelligence tracker that integrates with popular messaging platforms, providing real-time insights into the emotional tone of conversations. Users receive personalized suggestions to enhance communication, empathy, and relationship-building, improving both personal and professional interactions.",
     "project_slug": "an-ai-driven-emotional-intelligence-tracker-that-integrates-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-08",
+    "idea": "An AI-driven knowledge-sharing hub that connects employees with real-time expertise from within their organization, facilitating spontaneous Q&A sessions where inquiries are matched to the best-suited colleagues based on past projects and skills, fostering collaboration and learning.",
+    "project_slug": "an-ai-driven-knowledge-sharing-hub-that-connects-employees-w",
+    "status": "new"
   }
 ]
