@@ -290,5 +290,17 @@
     "idea": "An AI-driven knowledge-sharing hub that connects employees with real-time expertise from within their organization, facilitating spontaneous Q&A sessions where inquiries are matched to the best-suited colleagues based on past projects and skills, fostering collaboration and learning.",
     "project_slug": "an-ai-driven-knowledge-sharing-hub-that-connects-employees-w",
     "status": "new"
+  },
+  {
+    "date": "2025-11-09",
+    "idea": "A dynamic storytelling platform that adapts narratives in real-time based on user engagement metrics, allowing creators to refine plots and characters based on live audience interaction and preferences.",
+    "project_slug": "a-dynamic-storytelling-platform-that-adapts-narratives-in-re",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-09",
+    "idea": "A collaborative AI-driven brainstorming tool that maps out user-generated ideas onto a visual framework, allowing teams to explore connections and divergences in real-time, facilitating deeper creative discussions and innovation strategies.",
+    "project_slug": "a-collaborative-ai-driven-brainstorming-tool-that-maps-out-u",
+    "status": "new"
   }
 ]
