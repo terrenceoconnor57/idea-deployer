@@ -314,5 +314,17 @@
     "idea": "A virtual hindsight service that uses AI to analyze past projects and personal experiences, providing tailored insights and strategies for future endeavors, enhancing decision-making and personal growth by revealing blind spots in previously made choices.",
     "project_slug": "a-virtual-hindsight-service-that-uses-ai-to-analyze-past-pro",
     "status": "new"
+  },
+  {
+    "date": "2025-11-11",
+    "idea": "A dynamic feedback loop platform for digital nomads where they can input their travel experiences in real-time, allowing others to see live insights on accommodation, connectivity, and coworking spaces in various locations, all based on peer ratings and personal narratives.",
+    "project_slug": "a-dynamic-feedback-loop-platform-for-digital-nomads-where-th",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-11",
+    "idea": "A collaborative storytelling tool that leverages AI to help groups co-create narratives for virtual reality environments, allowing teams to blend perspectives and craft immersive stories that translate into interactive VR experiences without needing extensive technical knowledge.",
+    "project_slug": "a-collaborative-storytelling-tool-that-leverages-ai-to-help-",
+    "status": "new"
   }
 ]
