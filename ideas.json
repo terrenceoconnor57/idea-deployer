@@ -326,5 +326,17 @@
     "idea": "A collaborative storytelling tool that leverages AI to help groups co-create narratives for virtual reality environments, allowing teams to blend perspectives and craft immersive stories that translate into interactive VR experiences without needing extensive technical knowledge.",
     "project_slug": "a-collaborative-storytelling-tool-that-leverages-ai-to-help-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-12",
+    "idea": "A platform that analyzes the emotional tone of written communication (emails, chat messages) using AI, offering personalized suggestions for enhancing clarity, empathy, and engagement. Users can visualize trends over time, helping to improve interpersonal skills and team dynamics.",
+    "project_slug": "a-platform-that-analyzes-the-emotional-tone-of-written-commu",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-12",
+    "idea": "An interactive digital workspace that adapts to users' cognitive styles and preferences, allowing them to create a customized workflow environment. It integrates productivity tools, scheduling, and collaboration features designed to enhance focus and decision-making based on real-time feedback on work habits.",
+    "project_slug": "an-interactive-digital-workspace-that-adapts-to-users-cognit",
+    "status": "new"
   }
 ]
