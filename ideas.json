@@ -338,5 +338,17 @@
     "idea": "An interactive digital workspace that adapts to users' cognitive styles and preferences, allowing them to create a customized workflow environment. It integrates productivity tools, scheduling, and collaboration features designed to enhance focus and decision-making based on real-time feedback on work habits.",
     "project_slug": "an-interactive-digital-workspace-that-adapts-to-users-cognit",
     "status": "new"
+  },
+  {
+    "date": "2025-11-13",
+    "idea": "A collaborative platform for term negotiation where freelancers and clients can engage in live simulations of contract scenarios, using AI-driven recommendations to find mutually beneficial terms and foster understanding before agreements are made.",
+    "project_slug": "a-collaborative-platform-for-term-negotiation-where-freelanc",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-13",
+    "idea": "An interactive data storytelling tool that transforms raw quantitative research into engaging narratives with customizable visuals, enabling researchers to communicate findings more effectively to non-expert audiences while emphasizing emotional connection and contextual relevance.",
+    "project_slug": "an-interactive-data-storytelling-tool-that-transforms-raw-qu",
+    "status": "new"
   }
 ]
