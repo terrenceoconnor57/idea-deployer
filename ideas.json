@@ -350,5 +350,17 @@
     "idea": "An interactive data storytelling tool that transforms raw quantitative research into engaging narratives with customizable visuals, enabling researchers to communicate findings more effectively to non-expert audiences while emphasizing emotional connection and contextual relevance.",
     "project_slug": "an-interactive-data-storytelling-tool-that-transforms-raw-qu",
     "status": "new"
+  },
+  {
+    "date": "2025-11-14",
+    "idea": "A collaborative storytelling platform where users can co-author content by voting on plot directions in real-time, blending elements of writing, gaming, and social interaction. Users can create genres, set constraints, and seamlessly integrate multimedia elements for richer storytelling experiences.",
+    "project_slug": "a-collaborative-storytelling-platform-where-users-can-co-aut",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-14",
+    "idea": "A decentralized reputation system for online freelancers that uses blockchain technology to verify skills and client feedback, allowing users to build a transparent and trustworthy portfolio. This system ensures that positive reviews are tied to actual performance, fostering accountability in freelance marketplaces.",
+    "project_slug": "a-decentralized-reputation-system-for-online-freelancers-tha",
+    "status": "new"
   }
 ]
