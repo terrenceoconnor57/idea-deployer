@@ -362,5 +362,17 @@
     "idea": "A decentralized reputation system for online freelancers that uses blockchain technology to verify skills and client feedback, allowing users to build a transparent and trustworthy portfolio. This system ensures that positive reviews are tied to actual performance, fostering accountability in freelance marketplaces.",
     "project_slug": "a-decentralized-reputation-system-for-online-freelancers-tha",
     "status": "new"
+  },
+  {
+    "date": "2025-11-15",
+    "idea": "A service that analyzes personal email signatures to suggest tailored closing lines based on the recipient's profile and communication history, enhancing rapport and engagement in every message.",
+    "project_slug": "a-service-that-analyzes-personal-email-signatures-to-suggest",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-15",
+    "idea": "An interactive platform for hobbyists to collaboratively document and share the evolution of their projects through a timeline feature, allowing users to visually track progress, receive feedback, and inspire collaboration across diverse interests.",
+    "project_slug": "an-interactive-platform-for-hobbyists-to-collaboratively-doc",
+    "status": "new"
   }
 ]
