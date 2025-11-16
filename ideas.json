@@ -374,5 +374,11 @@
     "idea": "An interactive platform for hobbyists to collaboratively document and share the evolution of their projects through a timeline feature, allowing users to visually track progress, receive feedback, and inspire collaboration across diverse interests.",
     "project_slug": "an-interactive-platform-for-hobbyists-to-collaboratively-doc",
     "status": "new"
+  },
+  {
+    "date": "2025-11-16",
+    "idea": "An AI-driven tool for collaborative brainstorming that analyzes and synthesizes input from team members in real-time, creating a visual mind map of ideas, priorities, and potential synergies to enhance creativity and innovation in group settings.",
+    "project_slug": "an-ai-driven-tool-for-collaborative-brainstorming-that-analy",
+    "status": "new"
   }
 ]
