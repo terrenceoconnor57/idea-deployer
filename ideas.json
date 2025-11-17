@@ -380,5 +380,17 @@
     "idea": "An AI-driven tool for collaborative brainstorming that analyzes and synthesizes input from team members in real-time, creating a visual mind map of ideas, priorities, and potential synergies to enhance creativity and innovation in group settings.",
     "project_slug": "an-ai-driven-tool-for-collaborative-brainstorming-that-analy",
     "status": "new"
+  },
+  {
+    "date": "2025-11-17",
+    "idea": "A niche platform for community-driven content moderation that leverages AI to dynamically adapt moderation guidelines based on real-time user interactions and sentiment analysis, fostering healthier online environments with transparent feedback loops.",
+    "project_slug": "a-niche-platform-for-community-driven-content-moderation-tha",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-17",
+    "idea": "An interactive decision-making tool for small businesses that visualizes the impact of potential operational changes over time, using predictive analytics to simulate various scenarios and their long-term repercussions on cash flow and growth.",
+    "project_slug": "an-interactive-decision-making-tool-for-small-businesses-tha",
+    "status": "new"
   }
 ]
