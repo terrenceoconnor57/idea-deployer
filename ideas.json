@@ -392,5 +392,11 @@
     "idea": "An interactive decision-making tool for small businesses that visualizes the impact of potential operational changes over time, using predictive analytics to simulate various scenarios and their long-term repercussions on cash flow and growth.",
     "project_slug": "an-interactive-decision-making-tool-for-small-businesses-tha",
     "status": "new"
+  },
+  {
+    "date": "2025-11-18",
+    "idea": "A collaborative platform for urban dwellers to share and barter home-cooked meals based on dietary preferences and local ingredients, fostering community interaction while minimizing food waste.",
+    "project_slug": "a-collaborative-platform-for-urban-dwellers-to-share-and-bar",
+    "status": "new"
   }
 ]
