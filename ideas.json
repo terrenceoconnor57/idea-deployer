@@ -398,5 +398,17 @@
     "idea": "A collaborative platform for urban dwellers to share and barter home-cooked meals based on dietary preferences and local ingredients, fostering community interaction while minimizing food waste.",
     "project_slug": "a-collaborative-platform-for-urban-dwellers-to-share-and-bar",
     "status": "new"
+  },
+  {
+    "date": "2025-11-19",
+    "idea": "A platform that connects local artisans with businesses for bespoke, sustainable packaging solutions. Users can request customized designs that reflect their brand identity while supporting local craftsmanship, enhancing both aesthetics and eco-friendliness.",
+    "project_slug": "a-platform-that-connects-local-artisans-with-businesses-for-",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-19",
+    "idea": "An AI-driven tool that analyzes meeting notes to extract actionable insights and automatically create personalized follow-up tasks for each participant. This ensures accountability and aligns team priorities without the manual effort of tracking post-meeting action items.",
+    "project_slug": "an-ai-driven-tool-that-analyzes-meeting-notes-to-extract-act",
+    "status": "new"
   }
 ]
