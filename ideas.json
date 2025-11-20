@@ -410,5 +410,17 @@
     "idea": "An AI-driven tool that analyzes meeting notes to extract actionable insights and automatically create personalized follow-up tasks for each participant. This ensures accountability and aligns team priorities without the manual effort of tracking post-meeting action items.",
     "project_slug": "an-ai-driven-tool-that-analyzes-meeting-notes-to-extract-act",
     "status": "new"
+  },
+  {
+    "date": "2025-11-20",
+    "idea": "A community-driven tool that connects individuals with complementary skills for short-term, skill-swap projects. Users can offer a service in exchange for one they need, fostering collaboration and hands-on learning while building a network of diverse talents.",
+    "project_slug": "a-community-driven-tool-that-connects-individuals-with-compl",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-20",
+    "idea": "An AI-powered platform that curates personalized \"micro-experiences\" for users based on their preferences and local events, enabling spontaneous and unique leisure activities. It provides actionable recommendations and facilitates on-the-spot bookings, enhancing local exploration.",
+    "project_slug": "an-ai-powered-platform-that-curates-personalized-micro-exper",
+    "status": "new"
   }
 ]
