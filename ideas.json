@@ -422,5 +422,17 @@
     "idea": "An AI-powered platform that curates personalized \"micro-experiences\" for users based on their preferences and local events, enabling spontaneous and unique leisure activities. It provides actionable recommendations and facilitates on-the-spot bookings, enhancing local exploration.",
     "project_slug": "an-ai-powered-platform-that-curates-personalized-micro-exper",
     "status": "new"
+  },
+  {
+    "date": "2025-11-21",
+    "idea": "A community-driven platform that uses AI to curate personalized learning paths based on real-time skill demand trends and individual interests, enabling users to acquire relevant skills through peer-led micro-courses and mentorship.",
+    "project_slug": "a-community-driven-platform-that-uses-ai-to-curate-personali",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-21",
+    "idea": "An AI-driven feedback tool that analyzes non-verbal communication patterns during virtual meetings to provide actionable insights on team dynamics, engagement levels, and areas for improvement, enhancing remote collaboration and effectiveness.",
+    "project_slug": "an-ai-driven-feedback-tool-that-analyzes-non-verbal-communic",
+    "status": "new"
   }
 ]
