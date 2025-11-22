@@ -434,5 +434,17 @@
     "idea": "An AI-driven feedback tool that analyzes non-verbal communication patterns during virtual meetings to provide actionable insights on team dynamics, engagement levels, and areas for improvement, enhancing remote collaboration and effectiveness.",
     "project_slug": "an-ai-driven-feedback-tool-that-analyzes-non-verbal-communic",
     "status": "new"
+  },
+  {
+    "date": "2025-11-22",
+    "idea": "A personalized emotional wellness platform that analyzes users' daily mood inputs through voice and text, providing tailored mindfulness exercises, community support groups, and actionable insights based on behavioral trends.",
+    "project_slug": "a-personalized-emotional-wellness-platform-that-analyzes-use",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-22",
+    "idea": "A virtual travel experience marketplace allowing users to co-create, book, and monetize immersive storytelling tours led by local creators who offer a blend of cultural insights, interactive experiences, and live engagement via AR technology.",
+    "project_slug": "a-virtual-travel-experience-marketplace-allowing-users-to-co",
+    "status": "new"
   }
 ]
