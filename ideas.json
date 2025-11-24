@@ -452,5 +452,17 @@
     "idea": "A community-driven platform for skill-sharing where users can barter their expertise for hours with others in various fields. Gamified progress tracking and rewards encourage ongoing participation, ensuring a diverse range of skills and services are always available.",
     "project_slug": "a-community-driven-platform-for-skill-sharing-where-users-ca",
     "status": "new"
+  },
+  {
+    "date": "2025-11-24",
+    "idea": "A platform for granular climate impact assessments, allowing users to track how their everyday actions—like shopping or travel—affect personal carbon footprints. Through gamification, users receive tailored challenges to reduce emissions significantly while interacting with a community of eco-conscious individuals.",
+    "project_slug": "a-platform-for-granular-climate-impact-assessments-allowing-",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-24",
+    "idea": "An AI-driven personal finance tool that evolves with the user’s life stages, providing insights and proactive suggestions based on unexpected life events. It adapts financial tips and investment strategies dynamically, ensuring holistic financial wellness tailored to changing priorities, such as career shifts or starting a family.",
+    "project_slug": "an-ai-driven-personal-finance-tool-that-evolves-with-the-use",
+    "status": "new"
   }
 ]
