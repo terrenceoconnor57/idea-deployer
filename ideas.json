@@ -464,5 +464,17 @@
     "idea": "An AI-driven personal finance tool that evolves with the user’s life stages, providing insights and proactive suggestions based on unexpected life events. It adapts financial tips and investment strategies dynamically, ensuring holistic financial wellness tailored to changing priorities, such as career shifts or starting a family.",
     "project_slug": "an-ai-driven-personal-finance-tool-that-evolves-with-the-use",
     "status": "new"
+  },
+  {
+    "date": "2025-11-25",
+    "idea": "A personal finance tool that integrates with users' subscription services to analyze and recommend personalized savings plans based on usage patterns, dynamically adjusting as spending habits change.",
+    "project_slug": "a-personal-finance-tool-that-integrates-with-users-subscript",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-25",
+    "idea": "A collaborative platform for remote teams that uses AI to analyze communication styles and suggest optimized meeting structures, ensuring effective collaboration by tailoring agendas and participant roles based on past interactions.",
+    "project_slug": "a-collaborative-platform-for-remote-teams-that-uses-ai-to-an",
+    "status": "new"
   }
 ]
