@@ -476,5 +476,17 @@
     "idea": "A collaborative platform for remote teams that uses AI to analyze communication styles and suggest optimized meeting structures, ensuring effective collaboration by tailoring agendas and participant roles based on past interactions.",
     "project_slug": "a-collaborative-platform-for-remote-teams-that-uses-ai-to-an",
     "status": "new"
+  },
+  {
+    "date": "2025-11-26",
+    "idea": "A community-driven platform where users collaboratively create and maintain a personalized, evolving digital garden. Members can contribute plant care tips, seasonal updates, and localized pest solutions, ensuring an agent for knowledge-sharing that enhances gardening success based on region and user experience.",
+    "project_slug": "a-community-driven-platform-where-users-collaboratively-crea",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-26",
+    "idea": "An interactive tool that analyzes public transport data in real-time to suggest optimal travel routes and schedules based on personal preferences, environmental factors, and social interactions. Users can indicate preferences like quieter routes, scenic views, or potential carpooling opportunities, enhancing urban mobility experiences.",
+    "project_slug": "an-interactive-tool-that-analyzes-public-transport-data-in-r",
+    "status": "new"
   }
 ]
