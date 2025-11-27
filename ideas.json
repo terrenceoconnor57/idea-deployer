@@ -488,5 +488,11 @@
     "idea": "An interactive tool that analyzes public transport data in real-time to suggest optimal travel routes and schedules based on personal preferences, environmental factors, and social interactions. Users can indicate preferences like quieter routes, scenic views, or potential carpooling opportunities, enhancing urban mobility experiences.",
     "project_slug": "an-interactive-tool-that-analyzes-public-transport-data-in-r",
     "status": "new"
+  },
+  {
+    "date": "2025-11-27",
+    "idea": "An automated service for local businesses that uses machine learning to analyze social media trends in real-time, providing tailored marketing campaigns and suggesting optimal posting times based on competitors' engagement levels and consumer sentiment analysis.",
+    "project_slug": "an-automated-service-for-local-businesses-that-uses-machine-",
+    "status": "new"
   }
 ]
