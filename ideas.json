@@ -494,5 +494,17 @@
     "idea": "An automated service for local businesses that uses machine learning to analyze social media trends in real-time, providing tailored marketing campaigns and suggesting optimal posting times based on competitors' engagement levels and consumer sentiment analysis.",
     "project_slug": "an-automated-service-for-local-businesses-that-uses-machine-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-28",
+    "idea": "A platform that synthesizes users' online behaviors and preferences to create personalized virtual environments for remote work, allowing individuals to select or design their ideal workspace aesthetics, noise levels, and even background activities that enhance focus or relaxation.",
+    "project_slug": "a-platform-that-synthesizes-users-online-behaviors-and-prefe",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-28",
+    "idea": "An AI-driven toolkit for community organizers that analyzes local demographics, past event outcomes, and interest trends to suggest tailored engagement strategies and content ideas, fostering deeper connections and relevance in community-driven initiatives.",
+    "project_slug": "an-ai-driven-toolkit-for-community-organizers-that-analyzes-",
+    "status": "new"
   }
 ]
