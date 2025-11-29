@@ -506,5 +506,17 @@
     "idea": "An AI-driven toolkit for community organizers that analyzes local demographics, past event outcomes, and interest trends to suggest tailored engagement strategies and content ideas, fostering deeper connections and relevance in community-driven initiatives.",
     "project_slug": "an-ai-driven-toolkit-for-community-organizers-that-analyzes-",
     "status": "new"
+  },
+  {
+    "date": "2025-11-29",
+    "idea": "A platform that employs AI to analyze audio recordings of team meetings, highlighting key decisions, tasks, and sentiments in real-time, allowing users to easily follow up on commitments and improve collaboration.",
+    "project_slug": "a-platform-that-employs-ai-to-analyze-audio-recordings-of-te",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-29",
+    "idea": "An interactive data visualization tool focused on tracking personal health metrics against community trends, enabling users to share insights and crowdsourced tips for wellness tailored to specific geographical needs and habits.",
+    "project_slug": "an-interactive-data-visualization-tool-focused-on-tracking-p",
+    "status": "new"
   }
 ]
