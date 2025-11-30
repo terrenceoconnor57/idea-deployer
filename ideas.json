@@ -518,5 +518,17 @@
     "idea": "An interactive data visualization tool focused on tracking personal health metrics against community trends, enabling users to share insights and crowdsourced tips for wellness tailored to specific geographical needs and habits.",
     "project_slug": "an-interactive-data-visualization-tool-focused-on-tracking-p",
     "status": "new"
+  },
+  {
+    "date": "2025-11-30",
+    "idea": "A collaborative feedback platform for educators where students can anonymously provide constructive criticism on lessons in real-time. Instructors receive aggregated insights to adapt teaching methods dynamically, enhancing engagement and learning outcomes.",
+    "project_slug": "a-collaborative-feedback-platform-for-educators-where-studen",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-30",
+    "idea": "A wellness co-pilot app that syncs with users' calendars to suggest personalized micro-breaks based on their schedule and stress levels, incorporating short mindfulness exercises, quick workouts, or breathing techniques tailored to specific contexts throughout the day.",
+    "project_slug": "a-wellness-co-pilot-app-that-syncs-with-users-calendars-to-s",
+    "status": "new"
   }
 ]
