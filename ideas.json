@@ -530,5 +530,17 @@
     "idea": "A wellness co-pilot app that syncs with users' calendars to suggest personalized micro-breaks based on their schedule and stress levels, incorporating short mindfulness exercises, quick workouts, or breathing techniques tailored to specific contexts throughout the day.",
     "project_slug": "a-wellness-co-pilot-app-that-syncs-with-users-calendars-to-s",
     "status": "new"
+  },
+  {
+    "date": "2025-12-01",
+    "idea": "A hyper-localized platform that connects micro-influencers with neighborhood businesses for curated community events, integrating real-time feedback and participation levels to ensure genuine engagement and promote hyper-relevant offerings.",
+    "project_slug": "a-hyper-localized-platform-that-connects-micro-influencers-w",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-01",
+    "idea": "An AI-driven seasonal planning tool for families that balances activities, budgeting, and personal goals, using historical family data to suggest personalized schedules and local experiences, optimizing time and enriching relationships.",
+    "project_slug": "an-ai-driven-seasonal-planning-tool-for-families-that-balanc",
+    "status": "new"
   }
 ]
