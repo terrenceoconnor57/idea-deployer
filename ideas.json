@@ -566,5 +566,17 @@
     "idea": "A community-driven platform for sharing and rating DIY repair guides, supplemented with video support. Users can contribute their experiences, creating a rich library of practical fixes that evolves with community input and expert validations.",
     "project_slug": "a-community-driven-platform-for-sharing-and-rating-diy-repai",
     "status": "new"
+  },
+  {
+    "date": "2025-12-04",
+    "idea": "A platform that curates experiential learning adventures by connecting individuals with local experts in unconventional skills—like traditional crafts or cooking—allowing users to learn directly from cultural custodians, resulting in immersive educational exchanges that foster community.",
+    "project_slug": "a-platform-that-curates-experiential-learning-adventures-by-",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-04",
+    "idea": "A virtual reality SaaS tool that allows remote teams to create custom spaces for brainstorming and collaboration, enabling interactive mapping of ideas in a 3D environment, enhancing creativity and making remote teamwork feel more tangible and engaging.",
+    "project_slug": "a-virtual-reality-saas-tool-that-allows-remote-teams-to-crea",
+    "status": "new"
   }
 ]
