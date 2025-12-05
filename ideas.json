@@ -578,5 +578,17 @@
     "idea": "A virtual reality SaaS tool that allows remote teams to create custom spaces for brainstorming and collaboration, enabling interactive mapping of ideas in a 3D environment, enhancing creativity and making remote teamwork feel more tangible and engaging.",
     "project_slug": "a-virtual-reality-saas-tool-that-allows-remote-teams-to-crea",
     "status": "new"
+  },
+  {
+    "date": "2025-12-05",
+    "idea": "A collaborative storytelling platform where users can create interactive, branching narratives together in real-time. By integrating AI-driven narrative suggestions based on user contributions, it enhances creativity and engagement, allowing for unique, community-driven stories.",
+    "project_slug": "a-collaborative-storytelling-platform-where-users-can-create",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-05",
+    "idea": "An organizational tool specifically designed for remote team rituals, allowing teams to regularly coordinate and document informal check-ins, icebreakers, and bonding activities. This can foster culture and connectivity through guided prompts and a shared archive of past experiences and insights.",
+    "project_slug": "an-organizational-tool-specifically-designed-for-remote-team",
+    "status": "new"
   }
 ]
