@@ -590,5 +590,17 @@
     "idea": "An organizational tool specifically designed for remote team rituals, allowing teams to regularly coordinate and document informal check-ins, icebreakers, and bonding activities. This can foster culture and connectivity through guided prompts and a shared archive of past experiences and insights.",
     "project_slug": "an-organizational-tool-specifically-designed-for-remote-team",
     "status": "new"
+  },
+  {
+    "date": "2025-12-06",
+    "idea": "A platform that leverages blockchain to verify and track ethical sourcing for everyday consumer products, allowing individuals and businesses to transparently share their sustainability journey, fostering trust and informed purchasing decisions.",
+    "project_slug": "a-platform-that-leverages-blockchain-to-verify-and-track-eth",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-06",
+    "idea": "An AI-driven personal finance coach that adapts to user behavior in real-time, offering actionable insights and gamified challenges based on user spending patterns and financial goals, enhancing engagement and accountability.",
+    "project_slug": "an-ai-driven-personal-finance-coach-that-adapts-to-user-beha",
+    "status": "new"
   }
 ]
