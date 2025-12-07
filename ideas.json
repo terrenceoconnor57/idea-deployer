@@ -602,5 +602,17 @@
     "idea": "An AI-driven personal finance coach that adapts to user behavior in real-time, offering actionable insights and gamified challenges based on user spending patterns and financial goals, enhancing engagement and accountability.",
     "project_slug": "an-ai-driven-personal-finance-coach-that-adapts-to-user-beha",
     "status": "new"
+  },
+  {
+    "date": "2025-12-07",
+    "idea": "An AI-driven personal bias checker that analyzes users’ written content and suggests edits to minimize unintentional bias in tone or language, enhancing inclusivity and clarity before publishing documents or posts.",
+    "project_slug": "an-ai-driven-personal-bias-checker-that-analyzes-users-writt",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-07",
+    "idea": "A dynamic skill-matching platform that connects companies with on-demand consultants or freelancers based on real-time project requirements, skill sets, and availability, ensuring optimal team compositions for temporary collaborative efforts.",
+    "project_slug": "a-dynamic-skill-matching-platform-that-connects-companies-wi",
+    "status": "new"
   }
 ]
