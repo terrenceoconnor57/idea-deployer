@@ -614,5 +614,11 @@
     "idea": "A dynamic skill-matching platform that connects companies with on-demand consultants or freelancers based on real-time project requirements, skill sets, and availability, ensuring optimal team compositions for temporary collaborative efforts.",
     "project_slug": "a-dynamic-skill-matching-platform-that-connects-companies-wi",
     "status": "new"
+  },
+  {
+    "date": "2025-12-08",
+    "idea": "An intelligent community-driven skill-sharing marketplace where users can barter their expertise and services without currency, allowing for a unique exchange of knowledge, from coding to cooking, fostering both skill development and social connections.",
+    "project_slug": "an-intelligent-community-driven-skill-sharing-marketplace-wh",
+    "status": "new"
   }
 ]
