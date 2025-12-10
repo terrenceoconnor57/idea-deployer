@@ -632,5 +632,17 @@
     "idea": "An interactive virtual time capsule where users can upload multimedia memories or predictions for the future, which are periodically revisited or shared via personalized notifications, encouraging reflection and community connection over time.",
     "project_slug": "an-interactive-virtual-time-capsule-where-users-can-upload-m",
     "status": "new"
+  },
+  {
+    "date": "2025-12-10",
+    "idea": "A platform for artisans that uses AI to analyze local trends and consumer preferences, helping them tailor their crafts and marketing strategies to maximize both online and offline sales.",
+    "project_slug": "a-platform-for-artisans-that-uses-ai-to-analyze-local-trends",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-10",
+    "idea": "A subscription-based service that curates personalized wellness plans, leveraging user-inputted data on mood, sleep, and stress levels, then connects users with local professionals for in-person consultations or workshops.",
+    "project_slug": "a-subscription-based-service-that-curates-personalized-welln",
+    "status": "new"
   }
 ]
