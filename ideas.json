@@ -644,5 +644,17 @@
     "idea": "A subscription-based service that curates personalized wellness plans, leveraging user-inputted data on mood, sleep, and stress levels, then connects users with local professionals for in-person consultations or workshops.",
     "project_slug": "a-subscription-based-service-that-curates-personalized-welln",
     "status": "new"
+  },
+  {
+    "date": "2025-12-11",
+    "idea": "A community-based platform for hobbyists to crowdsource and co-create personalized DIY projects. Users can propose project ideas, collaborate on designs, and source materials collectively, turning individual interests into shared, tangible outcomes with community support.",
+    "project_slug": "a-community-based-platform-for-hobbyists-to-crowdsource-and-",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-11",
+    "idea": "A subscription service that curates sustainable office supplies based on companies’ environmental goals and employee preferences. Users input their ecological priorities, and the platform dynamically adapts offerings to ensure both sustainability and relevance, fostering a greener workplace culture.",
+    "project_slug": "a-subscription-service-that-curates-sustainable-office-suppl",
+    "status": "new"
   }
 ]
