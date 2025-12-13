@@ -668,5 +668,17 @@
     "idea": "An AI-driven emotional intelligence coach that analyzes user text and voice dialogues to provide real-time feedback and personalized strategies, enhancing interpersonal communication skills and building empathy in both personal and professional contexts.",
     "project_slug": "an-ai-driven-emotional-intelligence-coach-that-analyzes-user",
     "status": "new"
+  },
+  {
+    "date": "2025-12-13",
+    "idea": "A dynamic storytelling platform that transforms user-generated experiences into immersive audio-visual narratives. Users can record their stories, enhancing them with AI-generated visuals and soundscapes, allowing for personalized, shareable storytelling that transcends traditional formats.",
+    "project_slug": "a-dynamic-storytelling-platform-that-transforms-user-generat",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-13",
+    "idea": "A collaborative async brainstorming tool that utilizes gamification to encourage diverse idea generation. Users earn points for unique contributions, while AI analyzes input to suggest connections, fostering a rich ecosystem of innovative thoughts and concepts among teams working remotely.",
+    "project_slug": "a-collaborative-async-brainstorming-tool-that-utilizes-gamif",
+    "status": "new"
   }
 ]
