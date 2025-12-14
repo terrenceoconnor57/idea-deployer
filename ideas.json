@@ -680,5 +680,17 @@
     "idea": "A collaborative async brainstorming tool that utilizes gamification to encourage diverse idea generation. Users earn points for unique contributions, while AI analyzes input to suggest connections, fostering a rich ecosystem of innovative thoughts and concepts among teams working remotely.",
     "project_slug": "a-collaborative-async-brainstorming-tool-that-utilizes-gamif",
     "status": "new"
+  },
+  {
+    "date": "2025-12-14",
+    "idea": "A dynamic goal-tracking platform that adapts to personal productivity styles, employing AI to adjust strategies based on user performance and mental well-being metrics, fostering customized accountability.",
+    "project_slug": "a-dynamic-goal-tracking-platform-that-adapts-to-personal-pro",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-14",
+    "idea": "An immersive virtual memory palace tool that gamifies learning and retention, allowing users to create and explore 3D environments tied to their learning objectives, enhancing recall through spatial memory techniques.",
+    "project_slug": "an-immersive-virtual-memory-palace-tool-that-gamifies-learni",
+    "status": "new"
   }
 ]
