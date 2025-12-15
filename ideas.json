@@ -692,5 +692,17 @@
     "idea": "An immersive virtual memory palace tool that gamifies learning and retention, allowing users to create and explore 3D environments tied to their learning objectives, enhancing recall through spatial memory techniques.",
     "project_slug": "an-immersive-virtual-memory-palace-tool-that-gamifies-learni",
     "status": "new"
+  },
+  {
+    "date": "2025-12-15",
+    "idea": "A platform that curates and personalizes mental wellness routines by integrating users' real-time biometric data from wearables, allowing tailored mindfulness exercises, activity suggestions, and emotional health tracking based on daily fluctuations.",
+    "project_slug": "a-platform-that-curates-and-personalizes-mental-wellness-rou",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-15",
+    "idea": "An AI-driven community organizer that automates event planning by analyzing users' social tendencies, preferred activities, and past attendance while suggesting optimized dates, venues, and guest lists for personalized local meetups, maximizing participation and engagement.",
+    "project_slug": "an-ai-driven-community-organizer-that-automates-event-planni",
+    "status": "new"
   }
 ]
