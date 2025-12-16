@@ -704,5 +704,17 @@
     "idea": "An AI-driven community organizer that automates event planning by analyzing users' social tendencies, preferred activities, and past attendance while suggesting optimized dates, venues, and guest lists for personalized local meetups, maximizing participation and engagement.",
     "project_slug": "an-ai-driven-community-organizer-that-automates-event-planni",
     "status": "new"
+  },
+  {
+    "date": "2025-12-16",
+    "idea": "A collaborative platform that integrates personal well-being metrics with team productivity, allowing users to visualize how individual health impacts team goals through dynamic dashboards. Users can anonymously share insights and gamify wellness initiatives to cultivate a more supportive work environment.",
+    "project_slug": "a-collaborative-platform-that-integrates-personal-well-being",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-16",
+    "idea": "An AI-driven tool that evaluates the carbon footprint of user-generated content across social media platforms, offering suggestions for eco-friendly content strategies. Users can track their environmental impact in real-time, receive badges for sustainable practices, and share accomplishments within their community for greater awareness and engagement.",
+    "project_slug": "an-ai-driven-tool-that-evaluates-the-carbon-footprint-of-use",
+    "status": "new"
   }
 ]
