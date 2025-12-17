@@ -716,5 +716,17 @@
     "idea": "An AI-driven tool that evaluates the carbon footprint of user-generated content across social media platforms, offering suggestions for eco-friendly content strategies. Users can track their environmental impact in real-time, receive badges for sustainable practices, and share accomplishments within their community for greater awareness and engagement.",
     "project_slug": "an-ai-driven-tool-that-evaluates-the-carbon-footprint-of-use",
     "status": "new"
+  },
+  {
+    "date": "2025-12-17",
+    "idea": "A decentralized marketplace for skill barter, where users can exchange their abilities instead of currency. The platform uses blockchain to securely verify skills and track transactions, fostering a community of trust and creativity.",
+    "project_slug": "a-decentralized-marketplace-for-skill-barter-where-users-can",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-17",
+    "idea": "An AI-driven news synthesis engine that curates real-time updates from niche fields, allowing experts to subscribe to topic clusters. Users receive tailored summaries and insights, promoting informed discussions among specialists without the noise of mainstream headlines.",
+    "project_slug": "an-ai-driven-news-synthesis-engine-that-curates-real-time-up",
+    "status": "new"
   }
 ]
