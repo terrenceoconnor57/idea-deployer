@@ -728,5 +728,17 @@
     "idea": "An AI-driven news synthesis engine that curates real-time updates from niche fields, allowing experts to subscribe to topic clusters. Users receive tailored summaries and insights, promoting informed discussions among specialists without the noise of mainstream headlines.",
     "project_slug": "an-ai-driven-news-synthesis-engine-that-curates-real-time-up",
     "status": "new"
+  },
+  {
+    "date": "2025-12-18",
+    "idea": "A personalized event curation platform that uses AI to analyze user preferences and past activities, creating tailored recommendations for local events, workshops, or community activities while integrating with calendar apps for seamless scheduling.",
+    "project_slug": "a-personalized-event-curation-platform-that-uses-ai-to-analy",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-18",
+    "idea": "A collaborative document platform where teams can build an interactive decision tree in real-time, helping users visualize complex projects and workflows while tracking consensus-driven decisions and outcomes for better accountability and clarity.",
+    "project_slug": "a-collaborative-document-platform-where-teams-can-build-an-i",
+    "status": "new"
   }
 ]
