@@ -740,5 +740,17 @@
     "idea": "A collaborative document platform where teams can build an interactive decision tree in real-time, helping users visualize complex projects and workflows while tracking consensus-driven decisions and outcomes for better accountability and clarity.",
     "project_slug": "a-collaborative-document-platform-where-teams-can-build-an-i",
     "status": "new"
+  },
+  {
+    "date": "2025-12-19",
+    "idea": "An AI-driven platform that analyzes online product reviews in real-time to predict emerging shopping trends and consumer preferences, helping brands adapt their marketing strategies dynamically.",
+    "project_slug": "an-ai-driven-platform-that-analyzes-online-product-reviews-i",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-19",
+    "idea": "A virtual marketplace specifically for sustainable materials, where eco-conscious businesses can connect with suppliers, streamline sourcing, and access resources for ethical manufacturing practices tailored to their industry needs.",
+    "project_slug": "a-virtual-marketplace-specifically-for-sustainable-materials",
+    "status": "new"
   }
 ]
