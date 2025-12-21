@@ -764,5 +764,17 @@
     "idea": "An interactive virtual coworking space that uses immersive audio environments tailored to work styles, where users can connect in real-time based on mood and productivity preferences, facilitating spontaneous brainstorming sessions and social bonds while minimizing common distractions of traditional remote work.",
     "project_slug": "an-interactive-virtual-coworking-space-that-uses-immersive-a",
     "status": "new"
+  },
+  {
+    "date": "2025-12-21",
+    "idea": "A platform that seamlessly integrates local artisans with urban consumers through curated virtual pop-up markets, allowing users to experience live shopping events, interact with creators, and purchase one-of-a-kind products while supporting their community.",
+    "project_slug": "a-platform-that-seamlessly-integrates-local-artisans-with-ur",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-21",
+    "idea": "A subscription-based service that uses AI to analyze personal finance habits and automatically adjusts savings and investment strategies based on users' evolving lifestyle choices, promoting proactive wealth management and personalized financial growth.",
+    "project_slug": "a-subscription-based-service-that-uses-ai-to-analyze-persona",
+    "status": "new"
   }
 ]
