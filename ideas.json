@@ -776,5 +776,17 @@
     "idea": "A subscription-based service that uses AI to analyze personal finance habits and automatically adjusts savings and investment strategies based on users' evolving lifestyle choices, promoting proactive wealth management and personalized financial growth.",
     "project_slug": "a-subscription-based-service-that-uses-ai-to-analyze-persona",
     "status": "new"
+  },
+  {
+    "date": "2025-12-22",
+    "idea": "An AI-driven personal accountability platform that uses behavioral science principles to help users set and track progress on personal goals. It provides nudges and community support, while analyzing data to offer tailored motivation strategies based on user habits and preferences.",
+    "project_slug": "an-ai-driven-personal-accountability-platform-that-uses-beha",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-22",
+    "idea": "A subscription-based collaborative space that connects local artisans with consumers, allowing users to co-create unique products based on modular designs. This platform emphasizes community involvement and interaction, enabling users to vote on design elements and share their own ideas for future products.",
+    "project_slug": "a-subscription-based-collaborative-space-that-connects-local",
+    "status": "new"
   }
 ]
