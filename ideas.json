@@ -788,5 +788,17 @@
     "idea": "A subscription-based collaborative space that connects local artisans with consumers, allowing users to co-create unique products based on modular designs. This platform emphasizes community involvement and interaction, enabling users to vote on design elements and share their own ideas for future products.",
     "project_slug": "a-subscription-based-collaborative-space-that-connects-local",
     "status": "new"
+  },
+  {
+    "date": "2025-12-23",
+    "idea": "A collaborative story-building platform that uses AI to generate plot twists and character arcs based on user input, allowing writers to brainstorm together in real-time and visualize their story's narrative progression interactively.",
+    "project_slug": "a-collaborative-story-building-platform-that-uses-ai-to-gene",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-23",
+    "idea": "An emotional well-being monitoring tool that uses machine learning to analyze users' voice and text data in conversations to provide personalized mood insights, stress management techniques, and prompts for deeper self-reflection.",
+    "project_slug": "an-emotional-well-being-monitoring-tool-that-uses-machine-le",
+    "status": "new"
   }
 ]
