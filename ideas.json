@@ -800,5 +800,17 @@
     "idea": "An emotional well-being monitoring tool that uses machine learning to analyze users' voice and text data in conversations to provide personalized mood insights, stress management techniques, and prompts for deeper self-reflection.",
     "project_slug": "an-emotional-well-being-monitoring-tool-that-uses-machine-le",
     "status": "new"
+  },
+  {
+    "date": "2025-12-24",
+    "idea": "A collaborative networking platform that leverages AI to curate real-time professional introductions based on users' current projects and skills, dynamically creating opportunities for collaboration that evolve as user profiles and market demands shift.",
+    "project_slug": "a-collaborative-networking-platform-that-leverages-ai-to-cur",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-24",
+    "idea": "A personalized content digestion tool that tracks users' reading habits and curates summary insights, key themes, and sentiment analysis of articles from various sources, transforming vast information into concise, relevant takeaways tailored to individual interests and career goals.",
+    "project_slug": "a-personalized-content-digestion-tool-that-tracks-users-read",
+    "status": "new"
   }
 ]
