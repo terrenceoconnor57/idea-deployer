@@ -812,5 +812,17 @@
     "idea": "A personalized content digestion tool that tracks users' reading habits and curates summary insights, key themes, and sentiment analysis of articles from various sources, transforming vast information into concise, relevant takeaways tailored to individual interests and career goals.",
     "project_slug": "a-personalized-content-digestion-tool-that-tracks-users-read",
     "status": "new"
+  },
+  {
+    "date": "2025-12-25",
+    "idea": "A virtual space optimizer that uses AI to analyze users' digital spaces (like file storage, emails, and task lists) and suggests personalized strategies for decluttering and organizing, improving productivity while maintaining mental clarity.",
+    "project_slug": "a-virtual-space-optimizer-that-uses-ai-to-analyze-users-digi",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-25",
+    "idea": "An automatic community feedback engine for independent restaurants, which collects and analyzes customer reviews from various platforms in real-time, providing actionable insights and menu adjustment recommendations tailored to seasonal trends and local preferences.",
+    "project_slug": "an-automatic-community-feedback-engine-for-independent-resta",
+    "status": "new"
   }
 ]
