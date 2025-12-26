@@ -824,5 +824,17 @@
     "idea": "An automatic community feedback engine for independent restaurants, which collects and analyzes customer reviews from various platforms in real-time, providing actionable insights and menu adjustment recommendations tailored to seasonal trends and local preferences.",
     "project_slug": "an-automatic-community-feedback-engine-for-independent-resta",
     "status": "new"
+  },
+  {
+    "date": "2025-12-26",
+    "idea": "A collaborative storytelling platform where users can write chapters together in real-time, integrating AI to suggest plot twists or character developments based on thematic analysis of their writing styles, ultimately creating unique narratives that blend diverse voices.",
+    "project_slug": "a-collaborative-storytelling-platform-where-users-can-write-",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-26",
+    "idea": "An adaptive tool that helps freelancers align their skill sets with emerging job markets by using AI to analyze local job postings, recommend online courses, and connect them with nearby networking events, creating a personalized growth roadmap based on market demands.",
+    "project_slug": "an-adaptive-tool-that-helps-freelancers-align-their-skill-se",
+    "status": "new"
   }
 ]
