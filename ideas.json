@@ -848,5 +848,17 @@
     "idea": "An interactive virtual space for remote teams to host \"skill exchanges,\" where employees can teach each other short courses on niche skills, promoting collaboration and personal development while fostering a sense of community.",
     "project_slug": "an-interactive-virtual-space-for-remote-teams-to-host-skill-",
     "status": "new"
+  },
+  {
+    "date": "2025-12-28",
+    "idea": "A dynamic resume-builder tool that emphasizes storytelling through interactive multimedia elements. Users share their career narratives via video clips, audio, and visual timelines, allowing prospective employers to grasp their unique experiences beyond traditional text formats.",
+    "project_slug": "a-dynamic-resume-builder-tool-that-emphasizes-storytelling-t",
+    "status": "new"
+  },
+  {
+    "date": "2025-12-28",
+    "idea": "A collaborative event planning platform powered by AI-driven insights that suggests personalized venues, catering options, and activities based on users' interests and past events, streamlining the decision-making process for gatherings of any size.",
+    "project_slug": "a-collaborative-event-planning-platform-powered-by-ai-driven",
+    "status": "new"
   }
 ]
