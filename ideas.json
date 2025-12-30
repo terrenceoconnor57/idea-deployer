@@ -872,5 +872,11 @@
     "idea": "A dynamic marketplace that connects developers with local businesses seeking to implement AI solutions. Users can post challenges or project needs, and developers can propose their ideas and solutions. The platform features collaborative spaces for ideation and project management, driving innovation while building community ties.",
     "project_slug": "a-dynamic-marketplace-that-connects-developers-with-local-bu",
     "status": "new"
+  },
+  {
+    "date": "2025-12-30",
+    "idea": "A collaborative storytelling platform that uses AI to generate branching plotlines based on user input and decisions, allowing writers to co-create immersive narratives in real-time.",
+    "project_slug": "a-collaborative-storytelling-platform-that-uses-ai-to-genera",
+    "status": "new"
   }
 ]
