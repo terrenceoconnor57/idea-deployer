@@ -878,5 +878,11 @@
     "idea": "A collaborative storytelling platform that uses AI to generate branching plotlines based on user input and decisions, allowing writers to co-create immersive narratives in real-time.",
     "project_slug": "a-collaborative-storytelling-platform-that-uses-ai-to-genera",
     "status": "new"
+  },
+  {
+    "date": "2025-12-31",
+    "idea": "A digital time capsule platform where users can create multimedia entries set to unlock on future dates for their families, friends, or themselves. The focus is on documenting personal stories and insights that transform over time, fostering intergenerational connections and reflection.",
+    "project_slug": "a-digital-time-capsule-platform-where-users-can-create-multi",
+    "status": "new"
   }
 ]
