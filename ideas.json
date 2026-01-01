@@ -884,5 +884,11 @@
     "idea": "A digital time capsule platform where users can create multimedia entries set to unlock on future dates for their families, friends, or themselves. The focus is on documenting personal stories and insights that transform over time, fostering intergenerational connections and reflection.",
     "project_slug": "a-digital-time-capsule-platform-where-users-can-create-multi",
     "status": "new"
+  },
+  {
+    "date": "2026-01-01",
+    "idea": "A neighborhood-focused marketplace app that connects individuals for skill exchanges and services, allowing users to trade tasks like gardening or tutoring without monetary transactions, fostering community bonds while ensuring value and trust through reputation ratings.",
+    "project_slug": "a-neighborhood-focused-marketplace-app-that-connects-individ",
+    "status": "new"
   }
 ]
