@@ -896,5 +896,17 @@
     "idea": "An interactive community-driven map for local events that dynamically adjusts recommendations based on real-time attendee feedback. Users can suggest, vote, and improve events together, fostering a collaborative local culture while ensuring that only the most appealing gatherings are highlighted.",
     "project_slug": "an-interactive-community-driven-map-for-local-events-that-dy",
     "status": "new"
+  },
+  {
+    "date": "2026-01-03",
+    "idea": "A customizable digital mural platform that allows users to collaboratively create and curate dynamic visual stories for public spaces. Artists and community members can submit art pieces, and seasonal themes can change the mural's content and appearance, making it a living canvas that evolves over time.",
+    "project_slug": "a-customizable-digital-mural-platform-that-allows-users-to-c",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-03",
+    "idea": "A skill barter network for remote workers to exchange specialized talents in real-time. Users can book quick \"skill sprints\" where they teach or learn from each other in micro-sessions, fostering collaboration, upskilling, and community building without monetary transactions.",
+    "project_slug": "a-skill-barter-network-for-remote-workers-to-exchange-specia",
+    "status": "new"
   }
 ]
