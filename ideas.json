@@ -908,5 +908,17 @@
     "idea": "A skill barter network for remote workers to exchange specialized talents in real-time. Users can book quick \"skill sprints\" where they teach or learn from each other in micro-sessions, fostering collaboration, upskilling, and community building without monetary transactions.",
     "project_slug": "a-skill-barter-network-for-remote-workers-to-exchange-specia",
     "status": "new"
+  },
+  {
+    "date": "2026-01-04",
+    "idea": "A role-playing simulation platform for job seekers that allows users to practice interviews with AI avatars tailored to specific industries. Feedback focuses on both verbal responses and non-verbal cues, providing an immersive experience that prepares candidates for real-world scenarios.",
+    "project_slug": "a-role-playing-simulation-platform-for-job-seekers-that-allo",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-04",
+    "idea": "A neighborhood barter system app where users can trade skills or services instead of currency. This platform encourages local connections by facilitating skill exchanges—like tutoring for gardening help—while incorporating a reputation scoring system to ensure trust and accountability among users.",
+    "project_slug": "a-neighborhood-barter-system-app-where-users-can-trade-skill",
+    "status": "new"
   }
 ]
