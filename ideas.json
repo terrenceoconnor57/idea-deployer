@@ -920,5 +920,17 @@
     "idea": "A neighborhood barter system app where users can trade skills or services instead of currency. This platform encourages local connections by facilitating skill exchanges—like tutoring for gardening help—while incorporating a reputation scoring system to ensure trust and accountability among users.",
     "project_slug": "a-neighborhood-barter-system-app-where-users-can-trade-skill",
     "status": "new"
+  },
+  {
+    "date": "2026-01-05",
+    "idea": "A real-time collaboration platform for remote artists that combines augmented reality with AI-generated prompts, allowing users to create interactive murals or sculptures together, visualizing their ideas as if they were in the same physical space.",
+    "project_slug": "a-real-time-collaboration-platform-for-remote-artists-that-c",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-05",
+    "idea": "A subscription-based toolkit for startups that tailors regulatory compliance guidance using machine learning, offering a dynamic dashboard that updates with relevant laws, funding opportunities, and industry changes in real-time specific to their business model.",
+    "project_slug": "a-subscription-based-toolkit-for-startups-that-tailors-regul",
+    "status": "new"
   }
 ]
