@@ -932,5 +932,17 @@
     "idea": "A subscription-based toolkit for startups that tailors regulatory compliance guidance using machine learning, offering a dynamic dashboard that updates with relevant laws, funding opportunities, and industry changes in real-time specific to their business model.",
     "project_slug": "a-subscription-based-toolkit-for-startups-that-tailors-regul",
     "status": "new"
+  },
+  {
+    "date": "2026-01-06",
+    "idea": "A collaboration platform that integrates with users' personal health data to personalize team productivity strategies, suggesting optimal working hours and task allocations based on individual energy levels and wellness metrics.",
+    "project_slug": "a-collaboration-platform-that-integrates-with-users-personal",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-06",
+    "idea": "An AI-driven mentor matching service that not only pairs users with industry professionals but also provides real-time conversation simulation to help users prepare for meaningful discussions based on their goals and expertise.",
+    "project_slug": "an-ai-driven-mentor-matching-service-that-not-only-pairs-use",
+    "status": "new"
   }
 ]
