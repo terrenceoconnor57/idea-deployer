@@ -944,5 +944,11 @@
     "idea": "An AI-driven mentor matching service that not only pairs users with industry professionals but also provides real-time conversation simulation to help users prepare for meaningful discussions based on their goals and expertise.",
     "project_slug": "an-ai-driven-mentor-matching-service-that-not-only-pairs-use",
     "status": "new"
+  },
+  {
+    "date": "2026-01-07",
+    "idea": "A virtual interior design tool that employs augmented reality to allow users to visualize sustainable materials in their space. Users can filter preferences based on environmental impact, and the app provides local suppliers for the selected materials, enhancing community-driven eco-friendly living.",
+    "project_slug": "a-virtual-interior-design-tool-that-employs-augmented-realit",
+    "status": "new"
   }
 ]
