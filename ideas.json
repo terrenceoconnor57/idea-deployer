@@ -950,5 +950,17 @@
     "idea": "A virtual interior design tool that employs augmented reality to allow users to visualize sustainable materials in their space. Users can filter preferences based on environmental impact, and the app provides local suppliers for the selected materials, enhancing community-driven eco-friendly living.",
     "project_slug": "a-virtual-interior-design-tool-that-employs-augmented-realit",
     "status": "new"
+  },
+  {
+    "date": "2026-01-08",
+    "idea": "A collaborative platform that leverages AI to generate and visualize personalized career development paths based on users' skills, aspirations, and market trends, allowing professionals to map out strategies to achieve their goals in real time.",
+    "project_slug": "a-collaborative-platform-that-leverages-ai-to-generate-and-v",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-08",
+    "idea": "A subscription-based tool that curates and customizes health and wellness content based on individual DNA profiles, lifestyle choices, and wellness goals, creating a highly personalized experience that evolves with user feedback and advancements in genetics.",
+    "project_slug": "a-subscription-based-tool-that-curates-and-customizes-health",
+    "status": "new"
   }
 ]
