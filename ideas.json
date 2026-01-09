@@ -962,5 +962,17 @@
     "idea": "A subscription-based tool that curates and customizes health and wellness content based on individual DNA profiles, lifestyle choices, and wellness goals, creating a highly personalized experience that evolves with user feedback and advancements in genetics.",
     "project_slug": "a-subscription-based-tool-that-curates-and-customizes-health",
     "status": "new"
+  },
+  {
+    "date": "2026-01-09",
+    "idea": "A decentralized platform for interactive, crowd-sourced historical narratives where users contribute stories and artifacts. These narratives are visually represented on a dynamic timeline, allowing for exploration of local histories in a multi-dimensional format.",
+    "project_slug": "a-decentralized-platform-for-interactive-crowd-sourced-histo",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-09",
+    "idea": "A personalized AI-driven skill evolution coach that analyzes user interactions across various platforms, recommending specific micro-skills and resources based on evolving industry trends, individual career goals, and personal interests, fostering continuous growth and adaptability.",
+    "project_slug": "a-personalized-ai-driven-skill-evolution-coach-that-analyzes",
+    "status": "new"
   }
 ]
