@@ -974,5 +974,17 @@
     "idea": "A personalized AI-driven skill evolution coach that analyzes user interactions across various platforms, recommending specific micro-skills and resources based on evolving industry trends, individual career goals, and personal interests, fostering continuous growth and adaptability.",
     "project_slug": "a-personalized-ai-driven-skill-evolution-coach-that-analyzes",
     "status": "new"
+  },
+  {
+    "date": "2026-01-10",
+    "idea": "An AI-powered personal finance coach that analyzes user spending patterns and creates tailored micro-goals, integrating gamification to encourage users to achieve savings milestones with real-time rewards from partnered brands.",
+    "project_slug": "an-ai-powered-personal-finance-coach-that-analyzes-user-spen",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-10",
+    "idea": "A collaborative platform for hobbyists where users can create and share challenges within niche communities, facilitating skill-building through friendly competition and offering resources like workshops and mentor connections to track progress and provide feedback.",
+    "project_slug": "a-collaborative-platform-for-hobbyists-where-users-can-creat",
+    "status": "new"
   }
 ]
