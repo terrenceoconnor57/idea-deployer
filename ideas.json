@@ -986,5 +986,11 @@
     "idea": "A collaborative platform for hobbyists where users can create and share challenges within niche communities, facilitating skill-building through friendly competition and offering resources like workshops and mentor connections to track progress and provide feedback.",
     "project_slug": "a-collaborative-platform-for-hobbyists-where-users-can-creat",
     "status": "new"
+  },
+  {
+    "date": "2026-01-11",
+    "idea": "An eco-tracking marketplace that allows individuals and businesses to measure and offset their carbon footprint through local sustainability projects, rewarding users with points redeemable for eco-friendly products and experiences.",
+    "project_slug": "an-eco-tracking-marketplace-that-allows-individuals-and-busi",
+    "status": "new"
   }
 ]
