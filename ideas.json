@@ -992,5 +992,17 @@
     "idea": "An eco-tracking marketplace that allows individuals and businesses to measure and offset their carbon footprint through local sustainability projects, rewarding users with points redeemable for eco-friendly products and experiences.",
     "project_slug": "an-eco-tracking-marketplace-that-allows-individuals-and-busi",
     "status": "new"
+  },
+  {
+    "date": "2026-01-12",
+    "idea": "A platform that leverages AI to create personalized digital gardens for users, integrating their interests and environmental data to suggest plants and design layouts that thrive in their specific conditions, enabling them to cultivate an outdoor (or indoor) haven tailored to their lifestyle and local climate.",
+    "project_slug": "a-platform-that-leverages-ai-to-create-personalized-digital-",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-12",
+    "idea": "An interactive library of live, crowd-sourced problem-solving sessions where users can pitch their real-time business challenges and receive input from a diverse community of experts, fostering immediate collaboration and actionable insights within a structured, time-bound virtual format.",
+    "project_slug": "an-interactive-library-of-live-crowd-sourced-problem-solving",
+    "status": "new"
   }
 ]
