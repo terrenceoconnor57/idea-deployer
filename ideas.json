@@ -1004,5 +1004,17 @@
     "idea": "An interactive library of live, crowd-sourced problem-solving sessions where users can pitch their real-time business challenges and receive input from a diverse community of experts, fostering immediate collaboration and actionable insights within a structured, time-bound virtual format.",
     "project_slug": "an-interactive-library-of-live-crowd-sourced-problem-solving",
     "status": "new"
+  },
+  {
+    "date": "2026-01-13",
+    "idea": "A remote team collaboration tool that uses sentiment analysis to gauge team morale through chat interactions, automatically suggesting wellness activities or resources based on real-time emotional trends, helping maintain a positive work culture.",
+    "project_slug": "a-remote-team-collaboration-tool-that-uses-sentiment-analysi",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-13",
+    "idea": "An AR-based skill-sharing platform where users can host live workshops in their own spaces, enabling participants to engage interactively and practice skills hands-on, transforming learning into a community-driven, immersive experience.",
+    "project_slug": "an-ar-based-skill-sharing-platform-where-users-can-host-live",
+    "status": "new"
   }
 ]
