@@ -1016,5 +1016,17 @@
     "idea": "An AR-based skill-sharing platform where users can host live workshops in their own spaces, enabling participants to engage interactively and practice skills hands-on, transforming learning into a community-driven, immersive experience.",
     "project_slug": "an-ar-based-skill-sharing-platform-where-users-can-host-live",
     "status": "new"
+  },
+  {
+    "date": "2026-01-14",
+    "idea": "An AI-driven collaborative playlist creator that analyzes personal music preferences and social interactions to curate dynamic group playlists for parties or events, adapting in real-time based on attendee reactions and feedback.",
+    "project_slug": "an-ai-driven-collaborative-playlist-creator-that-analyzes-pe",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-14",
+    "idea": "A virtual brainstorming tool that uses image recognition to analyze users' surroundings and suggest creative project ideas or design concepts, leveraging the user's environment as an inspiration source for ideation sessions.",
+    "project_slug": "a-virtual-brainstorming-tool-that-uses-image-recognition-to-",
+    "status": "new"
   }
 ]
