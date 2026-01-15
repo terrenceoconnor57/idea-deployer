@@ -1028,5 +1028,17 @@
     "idea": "A virtual brainstorming tool that uses image recognition to analyze users' surroundings and suggest creative project ideas or design concepts, leveraging the user's environment as an inspiration source for ideation sessions.",
     "project_slug": "a-virtual-brainstorming-tool-that-uses-image-recognition-to-",
     "status": "new"
+  },
+  {
+    "date": "2026-01-15",
+    "idea": "A collaborative platform that connects urban gardeners with local chefs, allowing them to share surplus produce in exchange for curated dishes or workshops, fostering community ties while reducing food waste.",
+    "project_slug": "a-collaborative-platform-that-connects-urban-gardeners-with-",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-15",
+    "idea": "An AI-driven storytelling assistant focused on podcast creators that assists in crafting narrative arcs, generating episode outlines, and suggesting unique soundscapes, elevating the auditory storytelling experience without creative bottlenecks.",
+    "project_slug": "an-ai-driven-storytelling-assistant-focused-on-podcast-creat",
+    "status": "new"
   }
 ]
