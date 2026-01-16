@@ -1040,5 +1040,17 @@
     "idea": "An AI-driven storytelling assistant focused on podcast creators that assists in crafting narrative arcs, generating episode outlines, and suggesting unique soundscapes, elevating the auditory storytelling experience without creative bottlenecks.",
     "project_slug": "an-ai-driven-storytelling-assistant-focused-on-podcast-creat",
     "status": "new"
+  },
+  {
+    "date": "2026-01-16",
+    "idea": "An AI-driven empathy training platform that immerses users in real-life scenarios via interactive storytelling. Users navigate complex social situations, receiving feedback on their emotional intelligence and communication style, helping them develop better interpersonal skills in both personal and professional contexts.",
+    "project_slug": "an-ai-driven-empathy-training-platform-that-immerses-users-i",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-16",
+    "idea": "A collaborative decision-making tool that uses real-time sentiment analysis of group chats to identify consensus and diverging opinions. Teams can visualize their decision-making dynamics, enabling more nuanced discussions and efficient resolutions, ultimately improving collaborative outcomes without losing the essence of group engagement.",
+    "project_slug": "a-collaborative-decision-making-tool-that-uses-real-time-sen",
+    "status": "new"
   }
 ]
