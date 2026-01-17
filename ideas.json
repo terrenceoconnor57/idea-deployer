@@ -1052,5 +1052,11 @@
     "idea": "A collaborative decision-making tool that uses real-time sentiment analysis of group chats to identify consensus and diverging opinions. Teams can visualize their decision-making dynamics, enabling more nuanced discussions and efficient resolutions, ultimately improving collaborative outcomes without losing the essence of group engagement.",
     "project_slug": "a-collaborative-decision-making-tool-that-uses-real-time-sen",
     "status": "new"
+  },
+  {
+    "date": "2026-01-17",
+    "idea": "A platform that leverages AI to create personalized, interactive resume presentations tailored for specific job applications. Users input job descriptions, and the service crafts unique narratives and visuals, enhancing their storytelling and engagement with potential employers.",
+    "project_slug": "a-platform-that-leverages-ai-to-create-personalized-interact",
+    "status": "new"
   }
 ]
