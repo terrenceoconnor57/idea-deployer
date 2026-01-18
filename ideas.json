@@ -1058,5 +1058,17 @@
     "idea": "A platform that leverages AI to create personalized, interactive resume presentations tailored for specific job applications. Users input job descriptions, and the service crafts unique narratives and visuals, enhancing their storytelling and engagement with potential employers.",
     "project_slug": "a-platform-that-leverages-ai-to-create-personalized-interact",
     "status": "new"
+  },
+  {
+    "date": "2026-01-18",
+    "idea": "A digital storytelling platform that uses AI to help users weave personal experiences into interactive narratives with branching paths, enabling them to share their stories while allowing readers to choose different outcomes.",
+    "project_slug": "a-digital-storytelling-platform-that-uses-ai-to-help-users-w",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-18",
+    "idea": "A localized event discovery service that utilizes augmented reality to offer virtual tours of neighborhoods, showcasing hidden events and activities based on user interests, promoting community engagement in real-time.",
+    "project_slug": "a-localized-event-discovery-service-that-utilizes-augmented-",
+    "status": "new"
   }
 ]
