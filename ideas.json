@@ -1070,5 +1070,17 @@
     "idea": "A localized event discovery service that utilizes augmented reality to offer virtual tours of neighborhoods, showcasing hidden events and activities based on user interests, promoting community engagement in real-time.",
     "project_slug": "a-localized-event-discovery-service-that-utilizes-augmented-",
     "status": "new"
+  },
+  {
+    "date": "2026-01-19",
+    "idea": "A platform that connects seniors seeking companionship with high school students in their area, facilitating intergenerational friendships through structured activities and shared interests.",
+    "project_slug": "a-platform-that-connects-seniors-seeking-companionship-with-",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-19",
+    "idea": "An AI-driven tool that analyzes social media posts for sentiment trends around specific products or brands, providing businesses with real-time insights to adjust marketing strategies and product offerings dynamically.",
+    "project_slug": "an-ai-driven-tool-that-analyzes-social-media-posts-for-senti",
+    "status": "new"
   }
 ]
