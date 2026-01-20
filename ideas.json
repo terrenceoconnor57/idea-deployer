@@ -1082,5 +1082,17 @@
     "idea": "An AI-driven tool that analyzes social media posts for sentiment trends around specific products or brands, providing businesses with real-time insights to adjust marketing strategies and product offerings dynamically.",
     "project_slug": "an-ai-driven-tool-that-analyzes-social-media-posts-for-senti",
     "status": "new"
+  },
+  {
+    "date": "2026-01-20",
+    "idea": "A dynamic mentorship platform where users can input specific career goals and receive algorithm-driven matches to mentors not based solely on industry, but on unique skills, challenges, and personal narratives, facilitating tailored guidance.",
+    "project_slug": "a-dynamic-mentorship-platform-where-users-can-input-specific",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-20",
+    "idea": "An AI-driven conversational tool that helps remote teams simulate cultural scenarios, enhancing understanding of colleagues' backgrounds through interactive role-playing and context-driven dialogues, promoting empathy and inclusion in diverse workplaces.",
+    "project_slug": "an-ai-driven-conversational-tool-that-helps-remote-teams-sim",
+    "status": "new"
   }
 ]
