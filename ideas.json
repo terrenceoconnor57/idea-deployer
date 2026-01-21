@@ -1094,5 +1094,17 @@
     "idea": "An AI-driven conversational tool that helps remote teams simulate cultural scenarios, enhancing understanding of colleagues' backgrounds through interactive role-playing and context-driven dialogues, promoting empathy and inclusion in diverse workplaces.",
     "project_slug": "an-ai-driven-conversational-tool-that-helps-remote-teams-sim",
     "status": "new"
+  },
+  {
+    "date": "2026-01-21",
+    "idea": "A personalized wellness platform that uses AI to analyze users' daily habits and mood patterns, providing tailored mindfulness exercises, nutrition tips, and goal tracking to enhance mental health and resilience over time.",
+    "project_slug": "a-personalized-wellness-platform-that-uses-ai-to-analyze-use",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-21",
+    "idea": "An interactive storytelling tool that leverages user-generated content and AI to co-create immersive narratives in real-time, allowing groups to collaboratively write and visualize their unique stories in various formats, from comic strips to audio dramas.",
+    "project_slug": "an-interactive-storytelling-tool-that-leverages-user-generat",
+    "status": "new"
   }
 ]
