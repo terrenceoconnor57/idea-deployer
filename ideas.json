@@ -1106,5 +1106,17 @@
     "idea": "An interactive storytelling tool that leverages user-generated content and AI to co-create immersive narratives in real-time, allowing groups to collaboratively write and visualize their unique stories in various formats, from comic strips to audio dramas.",
     "project_slug": "an-interactive-storytelling-tool-that-leverages-user-generat",
     "status": "new"
+  },
+  {
+    "date": "2026-01-22",
+    "idea": "A collaborative decision-making platform that uses AI to simulate the outcomes of various choices in complex scenarios, allowing teams to visualize potential impacts before making decisions, thus reducing risk and uncertainty in strategic planning.",
+    "project_slug": "a-collaborative-decision-making-platform-that-uses-ai-to-sim",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-22",
+    "idea": "An adaptive learning tool for freelancers that integrates personal finance and project management, analyzing income patterns and work efficiency to provide tailored advice on pricing, income diversifications, and time investments in future projects based on historical performance.",
+    "project_slug": "an-adaptive-learning-tool-for-freelancers-that-integrates-pe",
+    "status": "new"
   }
 ]
