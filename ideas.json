@@ -1118,5 +1118,11 @@
     "idea": "An adaptive learning tool for freelancers that integrates personal finance and project management, analyzing income patterns and work efficiency to provide tailored advice on pricing, income diversifications, and time investments in future projects based on historical performance.",
     "project_slug": "an-adaptive-learning-tool-for-freelancers-that-integrates-pe",
     "status": "new"
+  },
+  {
+    "date": "2026-01-23",
+    "idea": "A collaborative problem-solving platform that utilizes AI to analyze user-generated dilemmas, propose data-driven solutions, and facilitate live brainstorming sessions. Gamify participation to enhance engagement and reward innovative ideas with real-world incentives.",
+    "project_slug": "a-collaborative-problem-solving-platform-that-utilizes-ai-to",
+    "status": "new"
   }
 ]
