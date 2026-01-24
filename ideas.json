@@ -1124,5 +1124,17 @@
     "idea": "A collaborative problem-solving platform that utilizes AI to analyze user-generated dilemmas, propose data-driven solutions, and facilitate live brainstorming sessions. Gamify participation to enhance engagement and reward innovative ideas with real-world incentives.",
     "project_slug": "a-collaborative-problem-solving-platform-that-utilizes-ai-to",
     "status": "new"
+  },
+  {
+    "date": "2026-01-24",
+    "idea": "A platform that analyzes your digital footprint across social media, email, and online purchases to create a personalized \"life budget,\" helping users allocate time and money more effectively based on their past behaviors and future goals.",
+    "project_slug": "a-platform-that-analyzes-your-digital-footprint-across-socia",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-24",
+    "idea": "An AI-driven matchmaking service for hobbyists, connecting individuals with similar niche interests for group activities, workshops, or projects—promoting skill-sharing and community building around unconventional passions, like vintage watch repair or urban beekeeping.",
+    "project_slug": "an-ai-driven-matchmaking-service-for-hobbyists-connecting-in",
+    "status": "new"
   }
 ]
