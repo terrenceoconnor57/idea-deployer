@@ -1142,5 +1142,17 @@
     "idea": "A platform that connects local artisans and craftspersons with businesses seeking unique, hand-crafted items for corporate gifting, providing a marketplace for collaboration and personalization while enhancing local economies.",
     "project_slug": "a-platform-that-connects-local-artisans-and-craftspersons-wi",
     "status": "new"
+  },
+  {
+    "date": "2026-01-26",
+    "idea": "An interactive empathy mapping platform for businesses to visualize and simulate customer experiences in real-time. Users can input scenarios to see emotional reactions, aiding in product design and service improvements based on real human insight.",
+    "project_slug": "an-interactive-empathy-mapping-platform-for-businesses-to-vi",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-26",
+    "idea": "A networked calendar tool that syncs personal goals with local community events, prompting users to join related activities. It encourages taking actionable steps toward objectives while fostering community engagement and social connections around shared aspirations.",
+    "project_slug": "a-networked-calendar-tool-that-syncs-personal-goals-with-loc",
+    "status": "new"
   }
 ]
