@@ -1166,5 +1166,17 @@
     "idea": "An interactive storytelling platform where users collaborate to write fiction in real-time, allowing for branching narratives, character inserts, and AI-generated prompts that evolve based on user interactions, fostering dynamic creativity.",
     "project_slug": "an-interactive-storytelling-platform-where-users-collaborate",
     "status": "new"
+  },
+  {
+    "date": "2026-01-28",
+    "idea": "A dynamic cultural exchange platform that curates immersive local experiences guided by residents. Users can book personalized activities in various cities, fostering genuine connections and understanding through storytelling, cuisine, and traditions.",
+    "project_slug": "a-dynamic-cultural-exchange-platform-that-curates-immersive-",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-28",
+    "idea": "An AI-driven accountability partner for creative professionals that integrates with project management tools, providing real-time feedback, productivity analysis, and tailored motivational prompts to help users navigate creative blocks and achieve their goals.",
+    "project_slug": "an-ai-driven-accountability-partner-for-creative-professiona",
+    "status": "new"
   }
 ]
