@@ -1178,5 +1178,11 @@
     "idea": "An AI-driven accountability partner for creative professionals that integrates with project management tools, providing real-time feedback, productivity analysis, and tailored motivational prompts to help users navigate creative blocks and achieve their goals.",
     "project_slug": "an-ai-driven-accountability-partner-for-creative-professiona",
     "status": "new"
+  },
+  {
+    "date": "2026-01-29",
+    "idea": "A co-creation platform that helps organizations and their communities collaboratively design services or products through real-time feedback loops, visual brainstorming, and version tracking. This allows for more inclusive decision-making and innovation.",
+    "project_slug": "a-co-creation-platform-that-helps-organizations-and-their-co",
+    "status": "new"
   }
 ]
