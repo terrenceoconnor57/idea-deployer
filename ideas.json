@@ -1184,5 +1184,17 @@
     "idea": "A co-creation platform that helps organizations and their communities collaboratively design services or products through real-time feedback loops, visual brainstorming, and version tracking. This allows for more inclusive decision-making and innovation.",
     "project_slug": "a-co-creation-platform-that-helps-organizations-and-their-co",
     "status": "new"
+  },
+  {
+    "date": "2026-01-30",
+    "idea": "A platform that uses AI to analyze and summarize professional networking connections, providing insights on potential collaborations, emerging trends in industries, and actionable recommendations for strengthening networks through curated introductions based on shared interests and goals.",
+    "project_slug": "a-platform-that-uses-ai-to-analyze-and-summarize-professiona",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-30",
+    "idea": "An interactive decision tree generator for businesses, allowing teams to visualize and collaboratively navigate complex strategies, fostering agile decision-making. Users can input scenarios and variables, receiving real-time feedback and alternative pathways to guide their strategic planning.",
+    "project_slug": "an-interactive-decision-tree-generator-for-businesses-allowi",
+    "status": "new"
   }
 ]
