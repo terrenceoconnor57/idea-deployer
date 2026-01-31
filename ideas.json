@@ -1196,5 +1196,11 @@
     "idea": "An interactive decision tree generator for businesses, allowing teams to visualize and collaboratively navigate complex strategies, fostering agile decision-making. Users can input scenarios and variables, receiving real-time feedback and alternative pathways to guide their strategic planning.",
     "project_slug": "an-interactive-decision-tree-generator-for-businesses-allowi",
     "status": "new"
+  },
+  {
+    "date": "2026-01-31",
+    "idea": "A decentralized learning platform where users can contribute real-time local insights on various subjects, creating community-driven mini-courses. Each course could adapt dynamically based on user input, making knowledge-sharing contextual and collaborative.",
+    "project_slug": "a-decentralized-learning-platform-where-users-can-contribute",
+    "status": "new"
   }
 ]
