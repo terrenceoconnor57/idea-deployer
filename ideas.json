@@ -1202,5 +1202,17 @@
     "idea": "A decentralized learning platform where users can contribute real-time local insights on various subjects, creating community-driven mini-courses. Each course could adapt dynamically based on user input, making knowledge-sharing contextual and collaborative.",
     "project_slug": "a-decentralized-learning-platform-where-users-can-contribute",
     "status": "new"
+  },
+  {
+    "date": "2026-02-01",
+    "idea": "A dynamic mental health resource platform that curates personalized self-care plans powered by AI, incorporating real-time mood tracking and community feedback to adapt resources over time, ensuring users receive the most relevant tools for their mental wellness journey.",
+    "project_slug": "a-dynamic-mental-health-resource-platform-that-curates-perso",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-01",
+    "idea": "A visually interactive project timeline tool that uses augmented reality to superimpose project milestones in real-world spaces, allowing teams to visualize progress in their physical environment, enhancing collaborative understanding and accountability on multifaceted projects.",
+    "project_slug": "a-visually-interactive-project-timeline-tool-that-uses-augme",
+    "status": "new"
   }
 ]
