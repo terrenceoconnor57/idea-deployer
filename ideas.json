@@ -1214,5 +1214,17 @@
     "idea": "A visually interactive project timeline tool that uses augmented reality to superimpose project milestones in real-world spaces, allowing teams to visualize progress in their physical environment, enhancing collaborative understanding and accountability on multifaceted projects.",
     "project_slug": "a-visually-interactive-project-timeline-tool-that-uses-augme",
     "status": "new"
+  },
+  {
+    "date": "2026-02-02",
+    "idea": "A live-streamed peer review platform for creators where users can receive instant feedback on content before publishing. The audience can engage in real-time discussions, suggest edits, and vote on improvements, enhancing collaborative content creation.",
+    "project_slug": "a-live-streamed-peer-review-platform-for-creators-where-user",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-02",
+    "idea": "A subscription-based service offering smart financial insights for creatives by analyzing spending patterns and project revenues. Users receive tailored budgeting tips and investment opportunities based on their unique income cycles and artistic goals, fostering financial stability in unpredictable careers.",
+    "project_slug": "a-subscription-based-service-offering-smart-financial-insigh",
+    "status": "new"
   }
 ]
