@@ -1226,5 +1226,17 @@
     "idea": "A subscription-based service offering smart financial insights for creatives by analyzing spending patterns and project revenues. Users receive tailored budgeting tips and investment opportunities based on their unique income cycles and artistic goals, fostering financial stability in unpredictable careers.",
     "project_slug": "a-subscription-based-service-offering-smart-financial-insigh",
     "status": "new"
+  },
+  {
+    "date": "2026-02-03",
+    "idea": "A dynamic marketplace platform that allows local artisans to collaborate in real-time on custom projects, facilitating shared tools and resources while enabling customers to track the progress of their personalized orders.",
+    "project_slug": "a-dynamic-marketplace-platform-that-allows-local-artisans-to",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-03",
+    "idea": "An interactive wellness assessment tool that uses AI to analyze users’ social media activity, suggesting tailored mindfulness strategies and community-based programs to foster real-life connection and well-being.",
+    "project_slug": "an-interactive-wellness-assessment-tool-that-uses-ai-to-anal",
+    "status": "new"
   }
 ]
