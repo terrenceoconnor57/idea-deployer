@@ -1238,5 +1238,17 @@
     "idea": "An interactive wellness assessment tool that uses AI to analyze users’ social media activity, suggesting tailored mindfulness strategies and community-based programs to foster real-life connection and well-being.",
     "project_slug": "an-interactive-wellness-assessment-tool-that-uses-ai-to-anal",
     "status": "new"
+  },
+  {
+    "date": "2026-02-04",
+    "idea": "A personalized learning platform that curates micro-courses based on users’ current projects and interests. As they input tasks, the system generates bite-sized lessons and resources tailored to fill skill gaps in real time, facilitating on-the-go knowledge acquisition.",
+    "project_slug": "a-personalized-learning-platform-that-curates-micro-courses-",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-04",
+    "idea": "A collaborative decision-making assistant that utilizes AI to analyze user preferences, team dynamics, and historical outcomes, generating customized frameworks for evaluating options and fostering inclusive dialogue, ultimately enhancing team alignment and decision quality.",
+    "project_slug": "a-collaborative-decision-making-assistant-that-utilizes-ai-t",
+    "status": "new"
   }
 ]
