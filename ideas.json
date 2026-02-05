@@ -1250,5 +1250,17 @@
     "idea": "A collaborative decision-making assistant that utilizes AI to analyze user preferences, team dynamics, and historical outcomes, generating customized frameworks for evaluating options and fostering inclusive dialogue, ultimately enhancing team alignment and decision quality.",
     "project_slug": "a-collaborative-decision-making-assistant-that-utilizes-ai-t",
     "status": "new"
+  },
+  {
+    "date": "2026-02-05",
+    "idea": "A platform that utilizes AI-driven social listening to identify micro-trends in niche communities, allowing businesses to adapt their marketing strategies in real-time to stay relevant and engaging.",
+    "project_slug": "a-platform-that-utilizes-ai-driven-social-listening-to-ident",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-05",
+    "idea": "A personal finance tool that incorporates gamification and social accountability, where users can form goal-oriented groups to tackle savings or debt reduction challenges together, sharing milestones and tips to boost engagement.",
+    "project_slug": "a-personal-finance-tool-that-incorporates-gamification-and-s",
+    "status": "new"
   }
 ]
