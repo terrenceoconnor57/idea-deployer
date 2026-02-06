@@ -1262,5 +1262,11 @@
     "idea": "A personal finance tool that incorporates gamification and social accountability, where users can form goal-oriented groups to tackle savings or debt reduction challenges together, sharing milestones and tips to boost engagement.",
     "project_slug": "a-personal-finance-tool-that-incorporates-gamification-and-s",
     "status": "new"
+  },
+  {
+    "date": "2026-02-06",
+    "idea": "A \"Dynamic Resume\" service that continuously curates professional achievements, skills, and experiences using AI to pull updates from integrated platforms like LinkedIn and GitHub. Users receive tailored job opportunities or project suggestions as their profile evolves, showcasing real-time value to recruiters and hiring managers.",
+    "project_slug": "a-dynamic-resume-service-that-continuously-curates-professio",
+    "status": "new"
   }
 ]
