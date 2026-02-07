@@ -1268,5 +1268,17 @@
     "idea": "A \"Dynamic Resume\" service that continuously curates professional achievements, skills, and experiences using AI to pull updates from integrated platforms like LinkedIn and GitHub. Users receive tailored job opportunities or project suggestions as their profile evolves, showcasing real-time value to recruiters and hiring managers.",
     "project_slug": "a-dynamic-resume-service-that-continuously-curates-professio",
     "status": "new"
+  },
+  {
+    "date": "2026-02-07",
+    "idea": "An AI-driven personal productivity hub that analyzes users' daily habits and surroundings to suggest hyper-personalized environment adjustments, task prioritizations, and focus techniques based on real-time data, enhancing their efficiency and well-being.",
+    "project_slug": "an-ai-driven-personal-productivity-hub-that-analyzes-users-d",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-07",
+    "idea": "A decentralized marketplace platform for local artisans that leverages blockchain to provide transparent pricing and ownership records. Users can discover, purchase, and authenticate unique handmade items while fostering community connections and supporting sustainable practices.",
+    "project_slug": "a-decentralized-marketplace-platform-for-local-artisans-that",
+    "status": "new"
   }
 ]
