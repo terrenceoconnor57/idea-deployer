@@ -1280,5 +1280,17 @@
     "idea": "A decentralized marketplace platform for local artisans that leverages blockchain to provide transparent pricing and ownership records. Users can discover, purchase, and authenticate unique handmade items while fostering community connections and supporting sustainable practices.",
     "project_slug": "a-decentralized-marketplace-platform-for-local-artisans-that",
     "status": "new"
+  },
+  {
+    "date": "2026-02-08",
+    "idea": "A decentralized skill-sharing marketplace where users can monetize their specific skills through micro-courses, live workshops, or mentorship sessions. Smart contracts ensure secure transactions and user privacy, encouraging niche expertise and community engagement.",
+    "project_slug": "a-decentralized-skill-sharing-marketplace-where-users-can-mo",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-08",
+    "idea": "A sentiment analysis tool that taps into audio conversations during meetings or calls in real-time. It provides visual feedback on team morale and engagement, helping leaders adjust their approach instantly for improved collaboration and productivity.",
+    "project_slug": "a-sentiment-analysis-tool-that-taps-into-audio-conversations",
+    "status": "new"
   }
 ]
