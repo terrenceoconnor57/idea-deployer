@@ -1292,5 +1292,17 @@
     "idea": "A sentiment analysis tool that taps into audio conversations during meetings or calls in real-time. It provides visual feedback on team morale and engagement, helping leaders adjust their approach instantly for improved collaboration and productivity.",
     "project_slug": "a-sentiment-analysis-tool-that-taps-into-audio-conversations",
     "status": "new"
+  },
+  {
+    "date": "2026-02-09",
+    "idea": "A collaborative platform enabling remote teams to design and execute \"Idea Jams\"—structured brainstorming sessions with AI-powered facilitation tools that analyze real-time contributions, highlight trends, and suggest actionable steps based on group insights.",
+    "project_slug": "a-collaborative-platform-enabling-remote-teams-to-design-and",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-09",
+    "idea": "An automated empathy mapping tool that uses user input from surveys and social media to showcase emotional landscapes, helping marketers and product developers understand customer sentiments and adapt strategies accordingly.",
+    "project_slug": "an-automated-empathy-mapping-tool-that-uses-user-input-from-",
+    "status": "new"
   }
 ]
