@@ -1310,5 +1310,17 @@
     "idea": "A collaborative platform for urban gardeners that connects neighbors with available yard space to those who want to grow their own food. Users can schedule gardening sessions, share resources, and even barter produce, fostering community ties and promoting sustainable practices.",
     "project_slug": "a-collaborative-platform-for-urban-gardeners-that-connects-n",
     "status": "new"
+  },
+  {
+    "date": "2026-02-11",
+    "idea": "A decentralized feedback platform where employees can anonymously share insights on company culture and policies via encrypted tokens. Employers receive actionable data in aggregate, promoting transparency without compromising individual identities.",
+    "project_slug": "a-decentralized-feedback-platform-where-employees-can-anonym",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-11",
+    "idea": "An interactive planning tool that uses AI to blend personal wellness goals with project timelines, recommending task shifts based on stress and productivity levels, ensuring work-life harmony while enhancing team effectiveness.",
+    "project_slug": "an-interactive-planning-tool-that-uses-ai-to-blend-personal-",
+    "status": "new"
   }
 ]
