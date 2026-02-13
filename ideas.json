@@ -1334,5 +1334,17 @@
     "idea": "A subscription service that curates personalized virtual coworking experiences by matching users with peers in similar industries and time zones, incorporating productivity tracking and instant feedback on work habits to boost accountability and motivation.",
     "project_slug": "a-subscription-service-that-curates-personalized-virtual-cow",
     "status": "new"
+  },
+  {
+    "date": "2026-02-13",
+    "idea": "A dynamic digital collaborative whiteboard that uses AI to transform handwritten notes and sketches into structured documents and presentations in real-time. This tool would adapt to team workflows, enhancing creativity and productivity without losing the organic feel of brainstorming on paper.",
+    "project_slug": "a-dynamic-digital-collaborative-whiteboard-that-uses-ai-to-t",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-13",
+    "idea": "A community-driven investment platform that allows users to pool small amounts of capital into local businesses or startups, with a built-in rewards system for both investors and businesses. This fosters local economic growth while providing users with a unique, tangible stake in their community.",
+    "project_slug": "a-community-driven-investment-platform-that-allows-users-to-",
+    "status": "new"
   }
 ]
