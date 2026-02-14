@@ -1346,5 +1346,11 @@
     "idea": "A community-driven investment platform that allows users to pool small amounts of capital into local businesses or startups, with a built-in rewards system for both investors and businesses. This fosters local economic growth while providing users with a unique, tangible stake in their community.",
     "project_slug": "a-community-driven-investment-platform-that-allows-users-to-",
     "status": "new"
+  },
+  {
+    "date": "2026-02-14",
+    "idea": "An AI-driven collaboration tool that analyzes team communication patterns to identify unrecognized talent and optimize task delegation, enhancing project outcomes by aligning the right skills with the right tasks within organizations.",
+    "project_slug": "an-ai-driven-collaboration-tool-that-analyzes-team-communica",
+    "status": "new"
   }
 ]
