@@ -1352,5 +1352,17 @@
     "idea": "An AI-driven collaboration tool that analyzes team communication patterns to identify unrecognized talent and optimize task delegation, enhancing project outcomes by aligning the right skills with the right tasks within organizations.",
     "project_slug": "an-ai-driven-collaboration-tool-that-analyzes-team-communica",
     "status": "new"
+  },
+  {
+    "date": "2026-02-15",
+    "idea": "A platform that curates personalized learning paths for underrepresented skills in the workforce, utilizing AI to assess individual strengths, career aspirations, and market demand. Users receive curated resources, projects, and mentorship opportunities to build competitive skills in a targeted manner.",
+    "project_slug": "a-platform-that-curates-personalized-learning-paths-for-unde",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-15",
+    "idea": "An interactive community where remote team members can engage in spontaneous, gamified brainstorming sessions that leverage AR. Users contribute ideas visually and collaboratively in real-time, enabling richer discussions and innovation while fostering stronger team dynamics outside traditional meetings.",
+    "project_slug": "an-interactive-community-where-remote-team-members-can-engag",
+    "status": "new"
   }
 ]
