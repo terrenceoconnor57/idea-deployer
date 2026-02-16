@@ -1364,5 +1364,17 @@
     "idea": "An interactive community where remote team members can engage in spontaneous, gamified brainstorming sessions that leverage AR. Users contribute ideas visually and collaboratively in real-time, enabling richer discussions and innovation while fostering stronger team dynamics outside traditional meetings.",
     "project_slug": "an-interactive-community-where-remote-team-members-can-engag",
     "status": "new"
+  },
+  {
+    "date": "2026-02-16",
+    "idea": "A neighborhood resource-sharing platform that allows users to lend and borrow tools, appliances, or even skills. Users can create localized trust groups, fostering community collaboration and reducing waste without the hassle of cash transactions.",
+    "project_slug": "a-neighborhood-resource-sharing-platform-that-allows-users-t",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-16",
+    "idea": "A personalized storytelling generator that transforms family history into engaging narratives. Users can input dates, locations, and key life events, and the platform curates a unique story, incorporating multimedia options, to preserve memories in an interactive format.",
+    "project_slug": "a-personalized-storytelling-generator-that-transforms-family",
+    "status": "new"
   }
 ]
