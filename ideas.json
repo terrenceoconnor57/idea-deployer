@@ -1376,5 +1376,17 @@
     "idea": "A personalized storytelling generator that transforms family history into engaging narratives. Users can input dates, locations, and key life events, and the platform curates a unique story, incorporating multimedia options, to preserve memories in an interactive format.",
     "project_slug": "a-personalized-storytelling-generator-that-transforms-family",
     "status": "new"
+  },
+  {
+    "date": "2026-02-17",
+    "idea": "A platform that leverages machine learning to analyze personal finance behaviors and suggests tailored budget strategies, integrating with local businesses to endorse hyper-relevant discounts based on spending patterns.",
+    "project_slug": "a-platform-that-leverages-machine-learning-to-analyze-person",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-17",
+    "idea": "A virtual reality workspace that adapts the environment based on team mood and productivity data, allowing users to customize spatial elements like lighting and sound to enhance focus and collaboration dynamically.",
+    "project_slug": "a-virtual-reality-workspace-that-adapts-the-environment-base",
+    "status": "new"
   }
 ]
