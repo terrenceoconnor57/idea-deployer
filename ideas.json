@@ -1388,5 +1388,17 @@
     "idea": "A virtual reality workspace that adapts the environment based on team mood and productivity data, allowing users to customize spatial elements like lighting and sound to enhance focus and collaboration dynamically.",
     "project_slug": "a-virtual-reality-workspace-that-adapts-the-environment-base",
     "status": "new"
+  },
+  {
+    "date": "2026-02-18",
+    "idea": "A collaborative platform that transforms brainstorming sessions into dynamic mind maps, allowing users to integrate voice notes and AI-generated idea prompts in real-time, enhancing creativity through diverse thinking styles while building a visual narrative of concepts.",
+    "project_slug": "a-collaborative-platform-that-transforms-brainstorming-sessi",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-18",
+    "idea": "An AI-driven \"goal scout\" that analyzes personal data, interests, and social behaviors to recommend and generate short, actionable monthly challenges aimed at cultivating new skills or habits, fostering growth in a gamified and community-supported environment.",
+    "project_slug": "an-ai-driven-goal-scout-that-analyzes-personal-data-interest",
+    "status": "new"
   }
 ]
