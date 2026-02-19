@@ -1400,5 +1400,17 @@
     "idea": "An AI-driven \"goal scout\" that analyzes personal data, interests, and social behaviors to recommend and generate short, actionable monthly challenges aimed at cultivating new skills or habits, fostering growth in a gamified and community-supported environment.",
     "project_slug": "an-ai-driven-goal-scout-that-analyzes-personal-data-interest",
     "status": "new"
+  },
+  {
+    "date": "2026-02-19",
+    "idea": "A collaborative platform for remote teams focused on \"decision fatigue mitigation.\" Users input decisions needing resolution, receive structured prompts to simplify choices, and leverage team consensus tools, like anonymous voting or ranked preferences, to streamline the decision-making process.",
+    "project_slug": "a-collaborative-platform-for-remote-teams-focused-on-decisio",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-19",
+    "idea": "A smart goal-tracking tool that uses AI to personalize plans based on real-time emotional and motivational data inputs. Users can log feelings, struggles, and victories, allowing the platform to adjust deadlines and strategies dynamically, enhancing accountability and supporting mental well-being with actionable insights.",
+    "project_slug": "a-smart-goal-tracking-tool-that-uses-ai-to-personalize-plans",
+    "status": "new"
   }
 ]
