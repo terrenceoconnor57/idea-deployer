@@ -1412,5 +1412,17 @@
     "idea": "A smart goal-tracking tool that uses AI to personalize plans based on real-time emotional and motivational data inputs. Users can log feelings, struggles, and victories, allowing the platform to adjust deadlines and strategies dynamically, enhancing accountability and supporting mental well-being with actionable insights.",
     "project_slug": "a-smart-goal-tracking-tool-that-uses-ai-to-personalize-plans",
     "status": "new"
+  },
+  {
+    "date": "2026-02-20",
+    "idea": "A skill-swapping platform for professionals to exchange virtual micro-mentorship sessions based on their expertise. Users can post specific challenges and schedule 30-minute help sessions, fostering community learning and real-time problem-solving without monetary transactions.",
+    "project_slug": "a-skill-swapping-platform-for-professionals-to-exchange-virt",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-20",
+    "idea": "An AI-driven digest service that aggregates and summarizes industry-specific news articles, podcasts, and videos into personalized briefs. Users receive tailored content weekly, focusing only on trends and insights relevant to their field, enhancing knowledge retention without overwhelming information.",
+    "project_slug": "an-ai-driven-digest-service-that-aggregates-and-summarizes-i",
+    "status": "new"
   }
 ]
