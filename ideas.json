@@ -1424,5 +1424,11 @@
     "idea": "An AI-driven digest service that aggregates and summarizes industry-specific news articles, podcasts, and videos into personalized briefs. Users receive tailored content weekly, focusing only on trends and insights relevant to their field, enhancing knowledge retention without overwhelming information.",
     "project_slug": "an-ai-driven-digest-service-that-aggregates-and-summarizes-i",
     "status": "new"
+  },
+  {
+    "date": "2026-02-21",
+    "idea": "A \"Micro-Investment Challenge\" platform where users can set personal saving goals tied to daily challenges (like 'no coffee for a week'), then automatically invest the saved amounts into curated, impact-driven funds.",
+    "project_slug": "a-micro-investment-challenge-platform-where-users-can-set-pe",
+    "status": "new"
   }
 ]
