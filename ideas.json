@@ -1430,5 +1430,17 @@
     "idea": "A \"Micro-Investment Challenge\" platform where users can set personal saving goals tied to daily challenges (like 'no coffee for a week'), then automatically invest the saved amounts into curated, impact-driven funds.",
     "project_slug": "a-micro-investment-challenge-platform-where-users-can-set-pe",
     "status": "new"
+  },
+  {
+    "date": "2026-02-22",
+    "idea": "A platform leveraging AI to create personalized career development pathways for underrepresented communities, combining mentorship, skill assessments, and job matching tailored to specific local industries and needs, fostering equitable access to job opportunities.",
+    "project_slug": "a-platform-leveraging-ai-to-create-personalized-career-devel",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-22",
+    "idea": "An interactive storytelling SaaS that allows users to weave real-life experiences into immersive digital narratives, enhancing personal branding for professionals while enabling businesses to create authentic promotional content through user-generated stories that resonate with their audiences.",
+    "project_slug": "an-interactive-storytelling-saas-that-allows-users-to-weave-",
+    "status": "new"
   }
 ]
