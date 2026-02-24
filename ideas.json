@@ -1454,5 +1454,17 @@
     "idea": "An AI-driven platform for personalized content remixing, where users can upload videos, articles, or audio clips and receive unique combinations tailored to their preferences. The tool encourages creativity and sharing of reimagined content across social channels.",
     "project_slug": "an-ai-driven-platform-for-personalized-content-remixing-wher",
     "status": "new"
+  },
+  {
+    "date": "2026-02-24",
+    "idea": "An interactive platform that connects local artisans with consumers through real-time virtual tours of their workshops, allowing users to explore craftsmanship while purchasing unique products directly from creators, fostering community support and personalized experiences.",
+    "project_slug": "an-interactive-platform-that-connects-local-artisans-with-co",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-24",
+    "idea": "A subscription-based service that curates and delivers custom DIY project kits based on user skills, interests, and seasonal trends, integrating online tutorials and a community forum for sharing finished projects and troubleshooting tips.",
+    "project_slug": "a-subscription-based-service-that-curates-and-delivers-custo",
+    "status": "new"
   }
 ]
