@@ -1466,5 +1466,17 @@
     "idea": "A subscription-based service that curates and delivers custom DIY project kits based on user skills, interests, and seasonal trends, integrating online tutorials and a community forum for sharing finished projects and troubleshooting tips.",
     "project_slug": "a-subscription-based-service-that-curates-and-delivers-custo",
     "status": "new"
+  },
+  {
+    "date": "2026-02-25",
+    "idea": "A collaborative platform for ethical consumption where users can share and rate local businesses based on sustainability practices, offering rewards for eco-friendly purchases and encouraging community-driven challenges to promote social responsibility.",
+    "project_slug": "a-collaborative-platform-for-ethical-consumption-where-users",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-25",
+    "idea": "A dynamic prototype generator allowing designers to visualize and simulate user interactions with real-time data, enabling instant A/B testing and iteration based on user feedback, all without needing extensive coding knowledge.",
+    "project_slug": "a-dynamic-prototype-generator-allowing-designers-to-visualiz",
+    "status": "new"
   }
 ]
