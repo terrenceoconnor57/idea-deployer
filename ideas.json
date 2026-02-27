@@ -1484,5 +1484,17 @@
     "idea": "A digital negotiation coach that uses AI to analyze user communication during negotiations in real-time, providing personalized feedback and strategies for improvement based on success patterns and emotional intelligence cues.",
     "project_slug": "a-digital-negotiation-coach-that-uses-ai-to-analyze-user-com",
     "status": "new"
+  },
+  {
+    "date": "2026-02-27",
+    "idea": "A collaborative mood board platform that integrates sentiment analysis, allowing teams to visualize project emotions and vibes. Users can upload images, colors, and phrases, generating an emotional landscape that influences design direction.",
+    "project_slug": "a-collaborative-mood-board-platform-that-integrates-sentimen",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-27",
+    "idea": "An AI-powered personal brand coach that analyzes social media content and engagement to suggest personalized strategies and actionable insights for enhancing online presence. It offers weekly assessments and targeted recommendations to boost visibility and authenticity.",
+    "project_slug": "an-ai-powered-personal-brand-coach-that-analyzes-social-medi",
+    "status": "new"
   }
 ]
