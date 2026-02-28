@@ -1496,5 +1496,17 @@
     "idea": "An AI-powered personal brand coach that analyzes social media content and engagement to suggest personalized strategies and actionable insights for enhancing online presence. It offers weekly assessments and targeted recommendations to boost visibility and authenticity.",
     "project_slug": "an-ai-powered-personal-brand-coach-that-analyzes-social-medi",
     "status": "new"
+  },
+  {
+    "date": "2026-02-28",
+    "idea": "A platform where artists can upload their works to be transformed into interactive virtual reality experiences. Users can step into these custom worlds, making art a live, immersive experience that users explore in their own unique ways.",
+    "project_slug": "a-platform-where-artists-can-upload-their-works-to-be-transf",
+    "status": "new"
+  },
+  {
+    "date": "2026-02-28",
+    "idea": "A decision-making tool for small businesses that uses AI to analyze employee skill sets and team dynamics, recommending optimal project assignments and training opportunities to enhance productivity and employee satisfaction in real-time.",
+    "project_slug": "a-decision-making-tool-for-small-businesses-that-uses-ai-to-",
+    "status": "new"
   }
 ]
