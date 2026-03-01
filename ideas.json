@@ -1508,5 +1508,17 @@
     "idea": "A decision-making tool for small businesses that uses AI to analyze employee skill sets and team dynamics, recommending optimal project assignments and training opportunities to enhance productivity and employee satisfaction in real-time.",
     "project_slug": "a-decision-making-tool-for-small-businesses-that-uses-ai-to-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-01",
+    "idea": "A collaborative AI-driven timeline tool that visualizes critical decision-making moments in project history. Users can input key events, and the tool generates insights on how those decisions affected outcomes, helping teams learn from their successes and failures.",
+    "project_slug": "a-collaborative-ai-driven-timeline-tool-that-visualizes-crit",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-01",
+    "idea": "A marketplace for swapping skills, where users can offer expertise in one area in exchange for lessons in another. The platform provides smart matching algorithms and peer reviews to ensure quality exchanges, fostering a community of continuous learning and skill diversity.",
+    "project_slug": "a-marketplace-for-swapping-skills-where-users-can-offer-expe",
+    "status": "new"
   }
 ]
