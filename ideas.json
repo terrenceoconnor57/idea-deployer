@@ -1520,5 +1520,17 @@
     "idea": "A marketplace for swapping skills, where users can offer expertise in one area in exchange for lessons in another. The platform provides smart matching algorithms and peer reviews to ensure quality exchanges, fostering a community of continuous learning and skill diversity.",
     "project_slug": "a-marketplace-for-swapping-skills-where-users-can-offer-expe",
     "status": "new"
+  },
+  {
+    "date": "2026-03-02",
+    "idea": "A dynamic pricing optimization platform for service-based businesses, leveraging real-time local demand data and customer profiles to suggest personalized pricing strategies that maximize profit while enhancing customer satisfaction.",
+    "project_slug": "a-dynamic-pricing-optimization-platform-for-service-based-bu",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-02",
+    "idea": "A collaborative emotional intelligence assessment tool that integrates with virtual meeting platforms, providing instant feedback to participants on verbal and non-verbal cues to help improve interpersonal dynamics and decision-making in remote teams.",
+    "project_slug": "a-collaborative-emotional-intelligence-assessment-tool-that-",
+    "status": "new"
   }
 ]
