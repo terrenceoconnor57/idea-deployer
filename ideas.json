@@ -1532,5 +1532,17 @@
     "idea": "A collaborative emotional intelligence assessment tool that integrates with virtual meeting platforms, providing instant feedback to participants on verbal and non-verbal cues to help improve interpersonal dynamics and decision-making in remote teams.",
     "project_slug": "a-collaborative-emotional-intelligence-assessment-tool-that-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-03",
+    "idea": "A virtual reality platform for cross-cultural training, allowing users to engage in immersive simulations that replicate diverse workplace environments, facilitating real-time practice in communication styles, negotiation tactics, and conflict resolution across cultures.",
+    "project_slug": "a-virtual-reality-platform-for-cross-cultural-training-allow",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-03",
+    "idea": "A dynamic content curation tool that leverages AI to analyze current events, user interests, and trending topics to suggest personalized reading lists, podcasts, and articles, fostering continuous learning and engagement based on evolving global narratives.",
+    "project_slug": "a-dynamic-content-curation-tool-that-leverages-ai-to-analyze",
+    "status": "new"
   }
 ]
