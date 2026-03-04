@@ -1544,5 +1544,17 @@
     "idea": "A dynamic content curation tool that leverages AI to analyze current events, user interests, and trending topics to suggest personalized reading lists, podcasts, and articles, fostering continuous learning and engagement based on evolving global narratives.",
     "project_slug": "a-dynamic-content-curation-tool-that-leverages-ai-to-analyze",
     "status": "new"
+  },
+  {
+    "date": "2026-03-04",
+    "idea": "A hybrid collaborative platform that merges augmented reality with project management tools, allowing teams to visualize progress in 3D space and conduct virtual meetings in the context of ongoing projects. Users can manipulate digital assets in real-time to foster creativity and problem-solving.",
+    "project_slug": "a-hybrid-collaborative-platform-that-merges-augmented-realit",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-04",
+    "idea": "An AI-driven emotional wellness dashboard tailored for remote workers, integrating personalized micro-therapy sessions, mood tracking, and team sentiment analysis. This platform promotes mental well-being while enabling organizations to foster a supportive work culture through actionable insights and anonymized data trends.",
+    "project_slug": "an-ai-driven-emotional-wellness-dashboard-tailored-for-remot",
+    "status": "new"
   }
 ]
