@@ -1568,5 +1568,17 @@
     "idea": "A collaborative soundscape designer that allows remote teams to compose and share auditory environments for productivity and focus. Users can mix ambient sounds, music, and voice clips, and the AI analyzes their effectiveness for specific tasks, optimizing team workflow.",
     "project_slug": "a-collaborative-soundscape-designer-that-allows-remote-teams",
     "status": "new"
+  },
+  {
+    "date": "2026-03-06",
+    "idea": "A collaborative storytelling platform where users can co-create narratives using AI-driven prompts and personalized timelines, allowing each participant to insert their own story elements based on shared themes and character arcs, enhancing creativity and community engagement.",
+    "project_slug": "a-collaborative-storytelling-platform-where-users-can-co-cre",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-06",
+    "idea": "A machine learning tool that analyzes personal digital footprints—transactions, social media interactions, and online habits—to generate personalized well-being insights and actionable strategies aimed at improving mental health and productivity, tailored to individual patterns.",
+    "project_slug": "a-machine-learning-tool-that-analyzes-personal-digital-footp",
+    "status": "new"
   }
 ]
