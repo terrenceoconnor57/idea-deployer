@@ -1580,5 +1580,17 @@
     "idea": "A machine learning tool that analyzes personal digital footprints—transactions, social media interactions, and online habits—to generate personalized well-being insights and actionable strategies aimed at improving mental health and productivity, tailored to individual patterns.",
     "project_slug": "a-machine-learning-tool-that-analyzes-personal-digital-footp",
     "status": "new"
+  },
+  {
+    "date": "2026-03-07",
+    "idea": "A platform that uses AI to analyze personal spending habits and suggests tailored subscription bundles based on user interests and financial goals, helping them save money and optimize their lifestyle choices.",
+    "project_slug": "a-platform-that-uses-ai-to-analyze-personal-spending-habits-",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-07",
+    "idea": "An interactive community-driven workspace tool that adapts to user energy levels and collaboration styles, dynamically creating teams and project spaces in real-time based on user feedback, mood tracking, and productivity patterns.",
+    "project_slug": "an-interactive-community-driven-workspace-tool-that-adapts-t",
+    "status": "new"
   }
 ]
