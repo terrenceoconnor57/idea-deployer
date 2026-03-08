@@ -1592,5 +1592,17 @@
     "idea": "An interactive community-driven workspace tool that adapts to user energy levels and collaboration styles, dynamically creating teams and project spaces in real-time based on user feedback, mood tracking, and productivity patterns.",
     "project_slug": "an-interactive-community-driven-workspace-tool-that-adapts-t",
     "status": "new"
+  },
+  {
+    "date": "2026-03-08",
+    "idea": "A platform that leverages AI to analyze personal finance behaviors across multiple apps, providing users with tailored micro-investment opportunities based on their unique spending patterns and financial goals.",
+    "project_slug": "a-platform-that-leverages-ai-to-analyze-personal-finance-beh",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-08",
+    "idea": "A collaborative storytelling tool where writers can asynchronously build narratives by leaving \"branches\" in the storyline. Each branch is voted on by the community, allowing for dynamic plots that evolve based on collective decisions.",
+    "project_slug": "a-collaborative-storytelling-tool-where-writers-can-asynchro",
+    "status": "new"
   }
 ]
