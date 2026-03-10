@@ -1616,5 +1616,11 @@
     "idea": "An AI-driven skill exchange network where professionals can barter services based on complementary skills, accompanied by robust analytics that reveal trending service demands, user proficiency levels, and potential match success rates.",
     "project_slug": "an-ai-driven-skill-exchange-network-where-professionals-can-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-10",
+    "idea": "A decentralized skill-sharing platform that allows users to barter their expertise in a peer-to-peer marketplace, creating unique collaborative projects based on community needs and available skills, fostering local engagement and innovation.",
+    "project_slug": "a-decentralized-skill-sharing-platform-that-allows-users-to-",
+    "status": "new"
   }
 ]
