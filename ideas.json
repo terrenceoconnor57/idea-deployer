@@ -1622,5 +1622,17 @@
     "idea": "A decentralized skill-sharing platform that allows users to barter their expertise in a peer-to-peer marketplace, creating unique collaborative projects based on community needs and available skills, fostering local engagement and innovation.",
     "project_slug": "a-decentralized-skill-sharing-platform-that-allows-users-to-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-11",
+    "idea": "A collaborative feedback platform for creatives that uses AI to analyze client preferences and past projects, providing tailored suggestions and a curated comment interface. This fosters direct communication and reduces revision cycles.",
+    "project_slug": "a-collaborative-feedback-platform-for-creatives-that-uses-ai",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-11",
+    "idea": "An adaptive wellness tracker that incorporates real-time biometric readings and environmental factors, offering personalized daily mental and physical well-being recommendations based on users' evolving lifestyles and goals.",
+    "project_slug": "an-adaptive-wellness-tracker-that-incorporates-real-time-bio",
+    "status": "new"
   }
 ]
