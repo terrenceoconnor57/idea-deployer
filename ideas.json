@@ -1646,5 +1646,17 @@
     "idea": "An interactive storytelling tool for educators, allowing teachers to create lesson plans that adapt based on student responses in real time, enhancing engagement and understanding through a gamified and collaborative learning experience.",
     "project_slug": "an-interactive-storytelling-tool-for-educators-allowing-teac",
     "status": "new"
+  },
+  {
+    "date": "2026-03-13",
+    "idea": "A collaborative platform that leverages AI to synthesize diverse team input during brainstorming sessions, quantifying individual contributions and sentiment, while providing predictive analysis on ideas' success based on historical data and industry trends.",
+    "project_slug": "a-collaborative-platform-that-leverages-ai-to-synthesize-div",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-13",
+    "idea": "An interactive marketplace for local artisans to offer virtual workshops, integrating AR technology to allow customers to experience hands-on techniques from their homes, fostering a community around unique, personalized craftsmanship.",
+    "project_slug": "an-interactive-marketplace-for-local-artisans-to-offer-virtu",
+    "status": "new"
   }
 ]
