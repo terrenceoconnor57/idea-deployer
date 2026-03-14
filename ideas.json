@@ -1658,5 +1658,17 @@
     "idea": "An interactive marketplace for local artisans to offer virtual workshops, integrating AR technology to allow customers to experience hands-on techniques from their homes, fostering a community around unique, personalized craftsmanship.",
     "project_slug": "an-interactive-marketplace-for-local-artisans-to-offer-virtu",
     "status": "new"
+  },
+  {
+    "date": "2026-03-14",
+    "idea": "A collaborative event planning platform that leverages AI to analyze regional event trends and suggest optimal timings, venues, and activities based on user preferences and social metrics, ensuring unique and engaging gatherings.",
+    "project_slug": "a-collaborative-event-planning-platform-that-leverages-ai-to",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-14",
+    "idea": "An emotional wellbeing tracker that uses biofeedback sensors and AI-driven insights to provide personalized mindfulness activities and automated check-ins, helping users develop resilience strategies tailored to their emotional patterns in real-time.",
+    "project_slug": "an-emotional-wellbeing-tracker-that-uses-biofeedback-sensors",
+    "status": "new"
   }
 ]
