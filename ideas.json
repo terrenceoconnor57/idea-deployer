@@ -1670,5 +1670,17 @@
     "idea": "An emotional wellbeing tracker that uses biofeedback sensors and AI-driven insights to provide personalized mindfulness activities and automated check-ins, helping users develop resilience strategies tailored to their emotional patterns in real-time.",
     "project_slug": "an-emotional-wellbeing-tracker-that-uses-biofeedback-sensors",
     "status": "new"
+  },
+  {
+    "date": "2026-03-15",
+    "idea": "A virtual kitchen assistant that uses AI to suggest ingredient pairings and cooking techniques based on personal taste profiles, dietary restrictions, and pantry inventory. Users can upload photos of ingredients, helping to transform leftover items into unique meal ideas.",
+    "project_slug": "a-virtual-kitchen-assistant-that-uses-ai-to-suggest-ingredie",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-15",
+    "idea": "An immersive team-building platform that leverages augmented reality to create interactive workplace challenges in employees' real environments. Users could solve puzzles or complete tasks that seamlessly integrate into their daily routines, strengthening collaboration and engagement without needing physical gatherings.",
+    "project_slug": "an-immersive-team-building-platform-that-leverages-augmented",
+    "status": "new"
   }
 ]
