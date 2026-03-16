@@ -1682,5 +1682,11 @@
     "idea": "An immersive team-building platform that leverages augmented reality to create interactive workplace challenges in employees' real environments. Users could solve puzzles or complete tasks that seamlessly integrate into their daily routines, strengthening collaboration and engagement without needing physical gatherings.",
     "project_slug": "an-immersive-team-building-platform-that-leverages-augmented",
     "status": "new"
+  },
+  {
+    "date": "2026-03-16",
+    "idea": "An AI-driven community mentorship platform that matches professionals seeking guidance with micro-experts for short, focused mentorship sessions, facilitating knowledge sharing without long-term commitments.",
+    "project_slug": "an-ai-driven-community-mentorship-platform-that-matches-prof",
+    "status": "new"
   }
 ]
