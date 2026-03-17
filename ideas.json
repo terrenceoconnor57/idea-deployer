@@ -1688,5 +1688,17 @@
     "idea": "An AI-driven community mentorship platform that matches professionals seeking guidance with micro-experts for short, focused mentorship sessions, facilitating knowledge sharing without long-term commitments.",
     "project_slug": "an-ai-driven-community-mentorship-platform-that-matches-prof",
     "status": "new"
+  },
+  {
+    "date": "2026-03-17",
+    "idea": "A decentralized feedback platform for remote teams that uses AI to analyze emotional tone and engagement in written communication. By deriving insights from chat and email interactions, it provides customized recommendations for improving team dynamics and collaboration.",
+    "project_slug": "a-decentralized-feedback-platform-for-remote-teams-that-uses",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-17",
+    "idea": "A subscription-based service that curates personalized emotional well-being toolkits, including audio stories, guided meditations, and stress-relief exercises, based on user mood tracking. Users complete a short daily survey, and the platform dynamically adjusts content to their emotional needs and growth over time.",
+    "project_slug": "a-subscription-based-service-that-curates-personalized-emoti",
+    "status": "new"
   }
 ]
