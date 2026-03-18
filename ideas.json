@@ -1700,5 +1700,17 @@
     "idea": "A subscription-based service that curates personalized emotional well-being toolkits, including audio stories, guided meditations, and stress-relief exercises, based on user mood tracking. Users complete a short daily survey, and the platform dynamically adjusts content to their emotional needs and growth over time.",
     "project_slug": "a-subscription-based-service-that-curates-personalized-emoti",
     "status": "new"
+  },
+  {
+    "date": "2026-03-18",
+    "idea": "A decentralized feedback platform where users can anonymously share and rate experiences with products and services in real-time, fostering transparent consumer insights and encouraging businesses to adapt quickly.",
+    "project_slug": "a-decentralized-feedback-platform-where-users-can-anonymousl",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-18",
+    "idea": "An AI-driven modular learning environment that continuously personalizes course content based on users' progress, interests, and engagement patterns, enabling educators to deliver tailored learning paths while students explore diverse subjects interactively.",
+    "project_slug": "an-ai-driven-modular-learning-environment-that-continuously-",
+    "status": "new"
   }
 ]
