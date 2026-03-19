@@ -1712,5 +1712,17 @@
     "idea": "An AI-driven modular learning environment that continuously personalizes course content based on users' progress, interests, and engagement patterns, enabling educators to deliver tailored learning paths while students explore diverse subjects interactively.",
     "project_slug": "an-ai-driven-modular-learning-environment-that-continuously-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-19",
+    "idea": "A collaborative digital garden platform where users visually map their thoughts, ideas, and research using interconnected nodes. Users can invite peers for brainstorming sessions, fostering creativity and serendipity in knowledge sharing, while integrating with APIs that pull data from various sources to enrich their thoughts.",
+    "project_slug": "a-collaborative-digital-garden-platform-where-users-visually",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-19",
+    "idea": "An AI-driven ethical dilemma simulator for teams that helps businesses navigate real-world challenges. Users are presented with tailored scenarios relevant to their industry, fostering critical thinking and collaborative problem-solving, allowing businesses to rehearse decision-making in high-stakes situations without real-world repercussions.",
+    "project_slug": "an-ai-driven-ethical-dilemma-simulator-for-teams-that-helps-",
+    "status": "new"
   }
 ]
