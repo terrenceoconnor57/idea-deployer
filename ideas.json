@@ -1736,5 +1736,17 @@
     "idea": "An AI-driven personal finance mentor that customizes savings strategies based on life goals and external economic conditions, adapting in real-time to significant financial shifts and providing proactive alerts for better decision-making.",
     "project_slug": "an-ai-driven-personal-finance-mentor-that-customizes-savings",
     "status": "new"
+  },
+  {
+    "date": "2026-03-21",
+    "idea": "A dynamic storytelling platform that uses AI to analyze user-generated content and craft personalized, interactive stories for kids. Parents can customize themes, learning outcomes, and characters, making reading engaging while promoting literacy and creativity.",
+    "project_slug": "a-dynamic-storytelling-platform-that-uses-ai-to-analyze-user",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-21",
+    "idea": "A neighborhood barter exchange network where local services and goods are traded based on a time banking system. Users earn \"time credits\" for services rendered (like dog-walking or tutoring) that can be redeemed for assistance from others, fostering community collaboration.",
+    "project_slug": "a-neighborhood-barter-exchange-network-where-local-services-",
+    "status": "new"
   }
 ]
