@@ -1760,5 +1760,11 @@
     "idea": "An AI-driven service that distills corporate jargon into plain language, helping teams craft clear, understandable communications. Users input complex documents or presentations, and the tool generates simplified versions, ensuring accessibility and enhancing collaboration among diverse stakeholders in organizations.",
     "project_slug": "an-ai-driven-service-that-distills-corporate-jargon-into-pla",
     "status": "new"
+  },
+  {
+    "date": "2026-03-23",
+    "idea": "A community-driven feedback loop platform that allows creators to share ideas and receive real-time suggestions from users based on sentiment analysis. This would enable creators to iteratively refine their projects using direct, data-driven input from their audience.",
+    "project_slug": "a-community-driven-feedback-loop-platform-that-allows-creato",
+    "status": "new"
   }
 ]
