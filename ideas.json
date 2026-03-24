@@ -1766,5 +1766,17 @@
     "idea": "A community-driven feedback loop platform that allows creators to share ideas and receive real-time suggestions from users based on sentiment analysis. This would enable creators to iteratively refine their projects using direct, data-driven input from their audience.",
     "project_slug": "a-community-driven-feedback-loop-platform-that-allows-creato",
     "status": "new"
+  },
+  {
+    "date": "2026-03-24",
+    "idea": "A platform that integrates with existing communication tools to analyze and visualize team sentiment over time, offering actionable insights and suggesting interventions to improve workplace morale and collaboration.",
+    "project_slug": "a-platform-that-integrates-with-existing-communication-tools",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-24",
+    "idea": "An AI-driven marketplace connecting local artisans with businesses, allowing companies to source handmade products tailored to their brand, fostering community ties while promoting sustainable practices and unique design.",
+    "project_slug": "an-ai-driven-marketplace-connecting-local-artisans-with-busi",
+    "status": "new"
   }
 ]
