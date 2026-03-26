@@ -1784,5 +1784,17 @@
     "idea": "A collaborative platform that transforms team brainstorming sessions into dynamic visual stories, allowing users to create interactive, multimedia narratives from their ideas. Participants can add audio clips, images, and videos in real-time, resulting in engaging presentations that capture the essence of their discussions.",
     "project_slug": "a-collaborative-platform-that-transforms-team-brainstorming-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-26",
+    "idea": "A collaborative decision-making platform that integrates real-time data analysis and user sentiment from social media to provide actionable recommendations for businesses, helping them navigate complex choices with enhanced insight and adaptability.",
+    "project_slug": "a-collaborative-decision-making-platform-that-integrates-rea",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-26",
+    "idea": "An AI-driven personal finance assistant that curates a dynamic savings plan based on the user’s spending habits, current trends, and life goals, allowing for automatic adjustments and optimized savings strategies tailored to individual financial behavior.",
+    "project_slug": "an-ai-driven-personal-finance-assistant-that-curates-a-dynam",
+    "status": "new"
   }
 ]
