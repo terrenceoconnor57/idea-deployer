@@ -1796,5 +1796,11 @@
     "idea": "An AI-driven personal finance assistant that curates a dynamic savings plan based on the user’s spending habits, current trends, and life goals, allowing for automatic adjustments and optimized savings strategies tailored to individual financial behavior.",
     "project_slug": "an-ai-driven-personal-finance-assistant-that-curates-a-dynam",
     "status": "new"
+  },
+  {
+    "date": "2026-03-27",
+    "idea": "A collaborative storytelling platform that integrates AI to help users seamlessly build interactive stories with branching narratives, incorporating real-time feedback and audience participation. Users can co-create content and customize experiences that adapt based on reader choices.",
+    "project_slug": "a-collaborative-storytelling-platform-that-integrates-ai-to-",
+    "status": "new"
   }
 ]
