@@ -1802,5 +1802,17 @@
     "idea": "A collaborative storytelling platform that integrates AI to help users seamlessly build interactive stories with branching narratives, incorporating real-time feedback and audience participation. Users can co-create content and customize experiences that adapt based on reader choices.",
     "project_slug": "a-collaborative-storytelling-platform-that-integrates-ai-to-",
     "status": "new"
+  },
+  {
+    "date": "2026-03-28",
+    "idea": "An AI-powered personal ethics advisor that helps users navigate moral dilemmas in their professional and personal lives. Users can input scenarios and receive tailored, context-aware guidance grounded in philosophical principles and community standards.",
+    "project_slug": "an-ai-powered-personal-ethics-advisor-that-helps-users-navig",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-28",
+    "idea": "A real-time collaborative design tool for crafting custom VR environments, enabling users to manipulate dimensions, textures, and interactivity on-the-fly. Features include AI-generated suggestions based on user behavior and integration with existing game development platforms for seamless asset transfer.",
+    "project_slug": "a-real-time-collaborative-design-tool-for-crafting-custom-vr",
+    "status": "new"
   }
 ]
