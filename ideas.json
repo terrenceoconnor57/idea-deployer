@@ -1814,5 +1814,17 @@
     "idea": "A real-time collaborative design tool for crafting custom VR environments, enabling users to manipulate dimensions, textures, and interactivity on-the-fly. Features include AI-generated suggestions based on user behavior and integration with existing game development platforms for seamless asset transfer.",
     "project_slug": "a-real-time-collaborative-design-tool-for-crafting-custom-vr",
     "status": "new"
+  },
+  {
+    "date": "2026-03-29",
+    "idea": "A neighborhood barter platform that uses AI to match residents with complementary needs, facilitating skill exchanges, tool rentals, and services without monetary transactions, fostering local community ties and resource sharing.",
+    "project_slug": "a-neighborhood-barter-platform-that-uses-ai-to-match-residen",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-29",
+    "idea": "An interactive personal goal mapping tool that integrates behavioral science techniques, allowing users to visualize their aspirations with gamified prompts, progress tracking, and social accountability features tailored to individual motivational drivers.",
+    "project_slug": "an-interactive-personal-goal-mapping-tool-that-integrates-be",
+    "status": "new"
   }
 ]
