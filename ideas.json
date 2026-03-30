@@ -1826,5 +1826,17 @@
     "idea": "An interactive personal goal mapping tool that integrates behavioral science techniques, allowing users to visualize their aspirations with gamified prompts, progress tracking, and social accountability features tailored to individual motivational drivers.",
     "project_slug": "an-interactive-personal-goal-mapping-tool-that-integrates-be",
     "status": "new"
+  },
+  {
+    "date": "2026-03-30",
+    "idea": "A community-driven platform that integrates augmented reality into local events, allowing users to overlay digital experiences such as timelines, stories, or historical context while exploring their surroundings. Local businesses can sponsor AR content to drive foot traffic.",
+    "project_slug": "a-community-driven-platform-that-integrates-augmented-realit",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-30",
+    "idea": "A subscription-based tool that provides personalized, AI-generated mentorship paths for diverse professionals by matching users with relevant learning resources, networking opportunities, and project collaborations, based on their career goals and skills.",
+    "project_slug": "a-subscription-based-tool-that-provides-personalized-ai-gene",
+    "status": "new"
   }
 ]
