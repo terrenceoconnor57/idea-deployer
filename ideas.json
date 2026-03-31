@@ -1838,5 +1838,17 @@
     "idea": "A subscription-based tool that provides personalized, AI-generated mentorship paths for diverse professionals by matching users with relevant learning resources, networking opportunities, and project collaborations, based on their career goals and skills.",
     "project_slug": "a-subscription-based-tool-that-provides-personalized-ai-gene",
     "status": "new"
+  },
+  {
+    "date": "2026-03-31",
+    "idea": "A decentralized mentorship platform where experienced professionals can offer real-time advice via live video sessions, using smart contracts to ensure commitment and value exchange. Participants earn tokens for insightful contributions and completed sessions, promoting a monetized learning ecosystem.",
+    "project_slug": "a-decentralized-mentorship-platform-where-experienced-profes",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-31",
+    "idea": "An AI-driven emotional intelligence tool that analyzes written communication (emails, chats) to provide insights about the sender’s emotional state and relationship dynamics. Users receive personalized recommendations on how to navigate conversations effectively, fostering better workplace relationships and reducing misunderstandings.",
+    "project_slug": "an-ai-driven-emotional-intelligence-tool-that-analyzes-writt",
+    "status": "new"
   }
 ]
