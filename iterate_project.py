@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json
 from datetime import date
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from typing import List, Dict, Set, Optional
 
 from dotenv import load_dotenv
@@ -13,10 +13,28 @@ PROJECT_ROOT = Path(__file__).parent
 PROJECTS_DIR = PROJECT_ROOT / "projects"
 IDEAS_FILE = PROJECT_ROOT / "ideas.json"
 
+ALLOWED_CODE_EXTENSIONS = {
+    ".py", ".js", ".ts", ".tsx", ".jsx", ".json", ".yaml", ".yml",
+    ".toml", ".ini", ".cfg", ".html", ".css", ".sql", ".sh", ".txt"
+}
+ALLOWED_CODE_BASENAMES = {"Dockerfile", "Makefile", ".gitignore", ".dockerignore"}
+
 SYSTEM_PROMPT = (
-    "You are an expert product and engineering advisor. Given a project state JSON, "
-    "propose one concrete, high-impact improvement step that can be implemented next. "
-    "Keep the proposal between 80-160 words. Include a short rationale and specific tasks."
+    "You are a senior software engineer. Given the project state and current file tree, "
+    "produce a small, concrete code iteration as a single JSON object. "
+    "Only modify or create real code/config files. No markdown, docs, or PM artifacts.\n\n"
+    "Output JSON schema:\n"
+    "{\n"
+    "  \"summary\": \"1-2 sentences on what changed and why.\",\n"
+    "  \"changes\": [\n"
+    "    {\"path\": \"relative/posix/path.ext\", \"action\": \"create|update|delete\", \"content\": \"<full file content if create/update>\"}\n"
+    "  ]\n"
+    "}\n\n"
+    "Rules:\n"
+    "- path must be inside the project folder (no leading /, no ..).\n"
+    "- For create/update, provide the complete file content.\n"
+    "- Only code/config files (py, js, ts, tsx, jsx, json, yaml, yml, toml, ini, cfg, html, css, sql, sh, txt, Makefile, Dockerfile, .gitignore, .dockerignore).\n"
+    "- Keep it 1-5 files and runnable."
 )
 
 
@@ -70,32 +88,86 @@ def ensure_project_initialized(project_slug: str, idea_text: str, created_date: 
     return proj_dir
 
 
-def generate_iteration_content(project_name: str, state_obj) -> str:
+def is_allowed_code_path(rel_path: str) -> bool:
+    try:
+        p = PurePosixPath(rel_path)
+    except Exception:
+        return False
+    if p.is_absolute() or not p.parts or ".." in p.parts:
+        return False
+    if p.suffix in ALLOWED_CODE_EXTENSIONS:
+        return True
+    if p.name in ALLOWED_CODE_BASENAMES:
+        return True
+    return False
+
+
+def list_project_tree(project_dir: Path) -> list:
+    entries = []
+    for path in project_dir.rglob("*"):
+        if path.is_file():
+            rel = path.relative_to(project_dir).as_posix()
+            if is_allowed_code_path(rel):
+                entries.append({"path": rel})
+    return entries
+
+
+def generate_code_changes(project_name: str, state_obj, file_tree: list) -> dict:
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY missing. Set it in .env or environment.")
 
     client = OpenAI(api_key=api_key)
-
-    user_content = (
-        f"Project: {project_name}\n\n"
-        f"State (JSON):\n{json.dumps(state_obj, indent=2, ensure_ascii=False)}\n\n"
-        f"Please propose the next concrete improvement step."
-    )
-
+    user_payload = {
+        "project": project_name,
+        "state": state_obj,
+        "file_tree": file_tree,
+    }
     completion = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
+            {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)},
         ],
-        temperature=0.8,
-        max_tokens=500,
+        temperature=0.6,
+        max_tokens=1600,
         n=1,
+        response_format={"type": "json_object"},
     )
+    raw = completion.choices[0].message.content.strip()
+    try:
+        return json.loads(raw)
+    except Exception:
+        m = re.search(r"\{[\s\S]*\}", raw)
+        if m:
+            return json.loads(m.group(0))
+        raise RuntimeError("Model did not return valid JSON changes.")
 
-    return completion.choices[0].message.content.strip()
+
+def apply_changes(project_dir: Path, changes: list) -> list:
+    applied = []
+    for change in changes:
+        path = str(change.get("path", ""))
+        action = str(change.get("action", "")).lower()
+        if action not in {"create", "update", "delete"} or not is_allowed_code_path(path):
+            continue
+        target = project_dir / Path(path)
+        if action in {"create", "update"}:
+            content = change.get("content")
+            if not isinstance(content, str):
+                continue
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(content, encoding="utf-8")
+            applied.append({"path": path, "action": action})
+        elif action == "delete":
+            try:
+                if target.exists() and target.is_file():
+                    target.unlink()
+                    applied.append({"path": path, "action": action})
+            except Exception:
+                pass
+    return applied
 
 
 def main() -> None:
@@ -125,18 +197,30 @@ def main() -> None:
             print("No projects found in projects/ and no ideas.json entries.")
             return
 
-    # 2) Run iteration for each project
+    # 2) Apply code iteration for each project
     for proj_dir in projects_to_iterate:
         state = load_state(proj_dir)
         if state is None:
             print(f"Skipping {proj_dir.name}: missing or invalid state.json")
             continue
-        out_dir = proj_dir / f"iteration_{today}"
-        out_dir.mkdir(parents=True, exist_ok=True)
-        content = generate_iteration_content(proj_dir.name, state)
-        output_file = out_dir / "output.md"
-        output_file.write_text(content + "\n", encoding="utf-8")
-        print(f"Wrote {output_file}")
+        file_tree = list_project_tree(proj_dir)
+        try:
+            result = generate_code_changes(proj_dir.name, state, file_tree)
+        except Exception as e:
+            print(f"{proj_dir.name}: failed to generate changes: {e}")
+            continue
+        summary = str(result.get("summary", "")).strip()
+        changes = result.get("changes") or []
+        applied = apply_changes(proj_dir, changes)
+        # record iteration in state.json
+        state.setdefault("iterations", [])
+        state["iterations"].append({
+            "date": today,
+            "summary": summary,
+            "applied": applied,
+        })
+        (proj_dir / "state.json").write_text(json.dumps(state, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        print(f"{proj_dir.name}: applied {len(applied)} change(s). {summary}")
 
 
 if __name__ == "__main__":
